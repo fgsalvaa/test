@@ -60,7 +60,7 @@ document.onclick=reEnable
 </item>
 
 <item>
-<title>[COLOR white]*[/COLOR][COLOR blue] [COLOR deepskyblue] *menurtv1*[/COLOR][COLOR white][AUDIO LATINO][/COLOR]</title>
+<title>[COLOR yellow]Tv Ferrer Online [/COLOR][COLOR red]**[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -72,6 +72,26 @@ document.onclick=reEnable
 <expres>#EXTINF:-.*?,(.*).*\n.*?(?=http|rtmp|rtsp|mms)(.*[\d|\w])</expres>
 <page>http://tvferrer2015.blogspot.com/2017/08/menurtv1.html</page>
 <cookieJar></cookieJar>
+</regex>
+<item>
+ 
+<item>
+<title>[COLOR yellow]Tv Ferrer Online [/COLOR][COLOR red]***[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[makelist.param1]</title>
+    <link>[makelist.param2]</link>
+    <thumbnail></thumbnail>
+]]></listrepeat>
+<expres>#EXTINF:-.*?,(.*).*\n.*?(?=http|rtmp|rtsp|mms)(.*[\d|\w])</expres>
+<page>$doregex[pass1]</page>
+<cookieJar></cookieJar>
+</regex>
+ <regex>
+<name>pass1</name>
+<expres>pass1="(.*?)"</expres> 
 </regex>
 <item>
 
