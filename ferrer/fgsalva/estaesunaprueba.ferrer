@@ -1,0 +1,596 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>LISTA DE ANIME BLOGSPOT hack</title>
+<link>$doregex[makelist3]</link>
+
+<regex>
+<name>makelist3</name>
+<listrepeat><![CDATA[
+<title>[B][COLOR yellow][makelist3.param2] [/COLOR] [COLOR lime] Ferrerlist [/COLOR] [/B]</title>
+<link>$doregex[makelist2]</link>
+<thumbnail>[makelist3.param3]</thumbnail>
+<fanart>[makelist3.param3]</fanart>
+]]></listrepeat>
+<expres><![CDATA[ANIMESRC="(.*?)" ANIMENOMBRE="(.*?)" ANIMEIMG="(.*?)"]]></expres>
+<page>https://gitlab.com/fgsalva/listas/raw/master/serverferrerhack</page>
+<referer>https://gitlab.com/fgsalva/listas/raw/master/serverferrerhack</referer>
+</regex>
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<title>[B][COLOR deepskyblue][makelist2.param1][/COLOR][COLOR lime] Ferrerlist [/COLOR][/B]</title>
+<link>https:$doregex[lurl]</link>
+<thumbnail>[makelist3.param3]</thumbnail>
+<fanart>[makelist3.param3]</fanart>
+]]></listrepeat>
+<expres><![CDATA[sans-serif;">(.*?)<\/span><\/span><\/b><\/u><\/div>[\w\W\s]{0,307}<iframe[\w\W\s]{0,49}src="(.*?)" width]]></expres>
+<page>[makelist3.param1]</page>
+<referer>[makelist3.param1]</referer>
+</regex>
+
+<regex>
+<name>lurl</name>
+<expres>var video_source = "(.*?)";</expres>
+<page>https:[makelist2.param2]</page>
+<referer>https:[makelist2.param2]</referer>
+</regex>
+
+</item>
+
+<expres><![CDATA[<p><div class=[\w\W\s]{0,83}src="(.*?)" width=[\w\W\s]{0,5} \/><\/div>]]></expres>
+xxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+
+xxxxxxxxxxxxxxxxxxx
+<item>
+<title>blog LISTA LAS SERIES un solo idioma</title>
+<link>$doregex[makelist3]</link>
+
+<regex>
+<name>makelist3</name>
+<listrepeat><![CDATA[
+<title>[makelist3.param2]  [makelist3.param1]</title>
+<link>$doregex[makelist2]</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[<li>[^<]+<a href='(.*?)'>(.*?)<]]></expres>
+<page>https://animelif-zone.blogspot.com/</page>
+<referer>https://animelif-zone.blogspot.com/</referer>
+</regex>
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<title>[makelist2.param1][makelist2.param2]</title>
+<link>https:$doregex[lurl]</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[sans-serif;">(.*?)<\/span><\/span><\/b><\/u><\/div>[\w\W\s]{0,307}<iframe[\w\W\s]{0,49}src="(.*?)" width]]></expres>
+<page>[makelist3.param1]</page>
+<referer>[makelist3.param1]</referer>
+</regex>
+
+<regex>
+<name>lurl</name>
+<expres>var video_source = "(.*?)";</expres>
+<page>https:[makelist2.param2]</page>
+<referer>https:[makelist2.param2]</referer>
+</regex>
+</item>
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+<NOPitem>
+<title>blog LISTA LAS SERIES dos idiomas escoge A1</title>
+<link>$doregex[makelist3]</link>
+
+<regex>
+<name>makelist3</name>
+<listrepeat><![CDATA[
+<title>[makelist3.param2]  [makelist3.param1]</title>
+<link>$pyFunction: '$doregex[makelist4]' if not '$doregex[makelist4]''=='' else '$doregex[makelist2]' if not '$doregex[makelist2]'=='</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[<li>[^<]+<a href='(.*?)'>(.*?)<]]></expres>
+<page>https://animelif-zone.blogspot.com/</page>
+<referer>https://animelif-zone.blogspot.com/</referer>
+</regex>
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<title>[makelist2.param1][makelist2.param2]</title>
+<link>https:$doregex[lurl]</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[sans-serif;">(.*?)<\/span><\/span><\/b><\/u><\/div>[\w\W\s]{0,307}<iframe[\w\W\s]{0,49}src="(.*?)" width]]></expres>
+<page>[makelist3.param1]</page>
+<referer>[makelist3.param1]</referer>
+</regex>
+
+<regex>
+<name>lurl</name>
+<expres>var video_source = "(.*?)";</expres>
+<page>https:[makelist2.param2]</page>
+<referer>https:[makelist2.param2]</referer>
+</regex>
+</item>
+
+
+<regex>
+<name>makelist4</name>
+<listrepeat><![CDATA[
+<title>[makelist4.param1][makelist4.param2]</title>
+<link>https:$doregex[lurl2]</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[<a href="(.*?)"><img alt="(.*?)" border="0" exify_intitialized="true" height="320" src="(.*?)" style="margin-top: 1em; text-align: left;" width="310" \/><\/a><a href="(.*?)"><img alt="(.*?)" border="0" exify_intitialized="true" height="304" src="(.*?)" style="margin-top: 1em; text-align: right;" width="310" \/><\/a><\/div>]]></expres>
+<page>[makelist3.param1]</page>
+<referer>[makelist3.param1]</referer>
+</regex>
+
+<regex>
+<name>lurl2</name>
+<expres>var video_source = "(.*?)";</expres>
+<page>https:[makelist4.param1]</page>
+<referer>https:[makelist4.param1]</referer>
+</regex>
+</item>
+
+xxxxxxxxxxxxxxxxxxxxxx
+
+<item>
+<title>amityville-the-awakening url con simple regefPASTE</title>
+<link>$doregex[makelist3]</link>
+
+<regex>
+<name>makelist3</name>
+<listrepeat><![CDATA[
+<title>[makelist3.param1]</title>
+<link>$doregex[makelist2]</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[class="servidor"><a rel="nofollow" href="(.*?)" title="]]></expres>
+<page>https://pastebin.com/raw/bCcY2m6R</page>
+<referer>https://www.ciberdvd.com/suspense/amityville-the-awakening/</referer>
+</regex>
+</item>
+XXXXXXXXXXXXXXX
+
+<item>
+<title> Externalink make2</title>
+<link>$doregex[makelist2]</link>
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<link>http://Ignoreme</link>
+<title>[makelist2.param2]</title>
+<externallink>[makelist2.param1]</externallink>
+<referer></referer>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres>"url2": "(.*?)","name": "(.*?)"</expres>
+<page>https://gitlab.com/fgsalva/listas/raw/master/serverferrerhack</page>
+<referer>https://gitlab.com/fgsalva/listas/raw/master/serverferrerhack</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+-----------------------------------------------------------------------------------------------
+<item>
+<title> [COLOR lime]•[/COLOR][COLOR red][B]externalin[/B] [/COLOR][COLOR lightblue]intento1I][/I][/COLOR]</title>
+<link>$doregex[makelist3]</link>
+
+<regex>
+<name>makelist3</name>
+<listrepeat><![CDATA[
+<link>http://Ignoreme</link>
+<title>[makelist3.param2]</title>
+<externallink>[makelist3.param1]</externallink>
+<referer></referer>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres>"url2": "(.*?)","name": "(.*?)"</expres>
+<page>https://gitlab.com/fgsalva/listas/raw/master/serverferrerhack</page>
+<referer>https://gitlab.com/fgsalva/listas/raw/master/serverferrerhack</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+</item>
+--------------------------------------------------------------------------------------------------------------------------------------
+<item>
+<title>MIKAKUNIN DE SHINKOUKEI url con simple regex CAP1 </title>
+<link>https:$doregex[lurl]</link>
+<regex>
+<name>lurl</name>
+<expres>var video_source = "(.*?)";</expres>
+<page>https://sendvid.com/embed/cq4n53sp</page>
+<referer>https://sendvid.com/embed/cq4n53sp</referer>
+</regex>
+</item>
+
+<item>
+<title>MIKAKUNIN DE SHINKOUKEI url con simple regex CAP2 </title>
+<link>https:$doregex[lurl]</link>
+<regex>
+<name>lurl</name>
+<expres>var video_source = "(.*?)";</expres>
+<page>https://sendvid.com/embed/iy6nxdfg</page>
+<referer>https://sendvid.com/embed/iy6nxdfg</referer>
+</regex>
+</item>
+
+<item>
+<title>MIKAKUNIN DE SHINKOUKEI url con simple regex CAP3 </title>
+<link>https:$doregex[lurl]</link>
+<regex>
+<name>lurl</name>
+<expres>var video_source = "(.*?)";</expres>
+<page>https://sendvid.com/embed/dhosmey8</page>
+<referer>https://sendvid.com/embed/dhosmey8</referer>
+</regex>
+</item>
+
+
+<item>
+<title>MIKAKUNIN DE SHINKOUKEI url con simple regex CAP4 </title>
+<link>https:$doregex[lurl]</link>
+<regex>
+<name>lurl</name>
+<expres>var video_source = "(.*?)";</expres>
+<page>https://sendvid.com/embed/k6hjdb84</page>
+<referer>https://sendvid.com/embed/k6hjdb84</referer>
+</regex>
+</item>
+
+<item>
+<title>MIKAKUNIN DE SHINKOUKEI url con simple regex CAP5 </title>
+<link>https:$doregex[lurl]</link>
+<regex>
+<name>lurl</name>
+<expres>var video_source = "(.*?)";</expres>
+<page>https://sendvid.com/embed/84a6c6nn</page>
+<referer>https://sendvid.com/embed/84a6c6nn</referer>
+</regex>
+</item>
+
+<item>
+<title>MIKAKUNIN DE SHINKOUKEI url con simple regex CAP6 </title>
+<link>https:$doregex[lurl]</link>
+<regex>
+<name>lurl</name>
+<expres>var video_source = "(.*?)";</expres>
+<page>https://sendvid.com/embed/rnha02t5</page>
+<referer>https://sendvid.com/embed/rnha02t5</referer>
+</regex>
+</item>
+
+
+<item>
+<title>MIKAKUNIN DE SHINKOUKEI url con simple regex CAP7 </title>
+<link>https:$doregex[lurl]</link>
+<regex>
+<name>lurl</name>
+<expres>var video_source = "(.*?)";</expres>
+<page>https://sendvid.com/embed/4lygp88n</page>
+<referer>https://sendvid.com/embed/4lygp88n</referer>
+</regex>
+</item>
+
+<item>
+<title>MIKAKUNIN DE SHINKOUKEI url con simple regex CAP8 </title>
+<link>https:$doregex[lurl]</link>
+<regex>
+<name>lurl</name>
+<expres>var video_source = "(.*?)";</expres>
+<page>https://sendvid.com/embed/7xj8t9xu</page>
+<referer>https://sendvid.com/embed/7xj8t9xu</referer>
+</regex>
+</item>
+
+<item>
+<title>MIKAKUNIN DE SHINKOUKEI url con simple regex CAP9 </title>
+<link>https:$doregex[lurl]</link>
+<regex>
+<name>lurl</name>
+<expres>var video_source = "(.*?)";</expres>
+<page>https://sendvid.com/embed/ii4lj3yi</page>
+<referer>https://sendvid.com/embed/ii4lj3yi</referer>
+</regex>
+</item>
+
+
+<item>
+<title>MIKAKUNIN DE SHINKOUKEI url con simple regex CAP10 </title>
+<link>https:$doregex[lurl]</link>
+<regex>
+<name>lurl</name>
+<expres>var video_source = "(.*?)";</expres>
+<page>https://sendvid.com/embed/rw5fse6r</page>
+<referer>https://sendvid.com/embed/rw5fse6r</referer>
+</regex>
+</item>
+
+<item>
+<title>MIKAKUNIN DE SHINKOUKEI url con simple regex CAP11 </title>
+<link>https:$doregex[lurl]</link>
+<regex>
+<name>lurl</name>
+<expres>var video_source = "(.*?)";</expres>
+<page>https://sendvid.com/embed/73rc2m32</page>
+<referer>https://sendvid.com/embed/73rc2m32</referer>
+</regex>
+</item>
+
+<item>
+<title>MIKAKUNIN DE SHINKOUKEI url con simple regex CAP12 </title>
+<link>https:$doregex[lurl]</link>
+<regex>
+<name>lurl</name>
+<expres>var video_source = "(.*?)";</expres>
+<page>https://sendvid.com/embed/ck6bo2oi</page>
+<referer>https://sendvid.com/embed/ck6bo2oi</referer>
+</regex>
+</item>
+
+<item>
+<title>MIKAKUNIN DE SHINKOUKEI url con simple regex OVA 1 </title>
+<link>https:$doregex[lurl]</link>
+<regex>
+<name>lurl</name>
+<expres>var video_source = "(.*?)";</expres>
+<page>https://sendvid.com/embed/lwp95pon</page>
+<referer>https://sendvid.com/embed/lwp95pon</referer>
+</regex>
+</item>
+
+<item>
+<title>MIKAKUNIN DE SHINKOUKEI url con simple regex OVA 2 </title>
+<link>https:$doregex[lurl]</link>
+<regex>
+<name>lurl</name>
+<expres>var video_source = "(.*?)";</expres>
+<page>https://sendvid.com/embed/yg2nwyu2</page>
+<referer>https://sendvid.com/embed/yg2nwyu2</referer>
+</regex>
+</item>
+
+
+
+
+<item>
+<title>Gini 1 extayendo la url con simple regex </title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>type="application\/x-mpegurl"\s\s\s\s\s\s\s\s\ssrc="(.*?)"></expres>
+<page>http://www.giniko.com/watch.php?id=375</page>
+</regex>
+</item>
+
+<item>
+<title>Gini 2 extayendo la url con simple regex </title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>type="application\/x-mpegurl".*\s.*\ssrc="(.*?)"></expres>
+<page>http://www.giniko.com/watch.php?id=375</page>
+</regex>
+</item>
+
+<item>
+<title>Gini 3 extayendo la url con simple regex </title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>type="application\/x-mpegurl"[^<]+src="(.*?)"></expres>
+<page>http://www.giniko.com/watch.php?id=375</page>
+</regex>
+</item>
+
+
+<item>
+<title>Gini 3cuatro extayendo la url con simple regex </title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>type="application\/x-mpegurl"[\w\W\s]{0,9}src="(.*?)"></expres>
+<page>http://www.giniko.com/watch.php?id=375</page>
+</regex>
+</item>
+
+
+<item>
+<title>Gini 5 extayendo la url con simple regex </title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>type="application\/x-mpegurl"\s........src="(.*?)"></expres>
+<page>http://www.giniko.com/watch.php?id=375</page>
+</regex>
+</item>
+
+
+
+
+
+
+*****************************
+
+<video data-title="IRIB 4 - LIVE"  autoplay >
+		<source type="application/x-mpegurl"
+        src="http://nimlive3.giniko.com/irib4/irib4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMy8yMDE3IDM6NTk6MDkgUE0maGFzaF92YWx1ZT1aUmZ4YUl1dWx1dk1TeGxkOGVtUyt3PT0mdmFsaWRtaW51dGVzPTE0NDA=">
+   </video>
+</div><!--  
+<script>
+
+
+extraer el src
+
+opcion 1
+type="application\/x-mpegurl"\s\s\s\s\s\s\s\s\ssrc="(.*?)">
+
+resultado
+1.http://nimlive3.giniko.com/irib4/irib4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMy8yMDE3IDM6NTk6MDkgUE0maGFzaF92YWx1ZT1aUmZ4YUl1dWx1dk1TeGxkOGVtUyt3PT0mdmFsaWRtaW51dGVzPTE0NDA=
+
+opcion2
+type="application\/x-mpegurl".*\s.*\ssrc="(.*?)">
+resultado
+1.http://nimlive3.giniko.com/irib4/irib4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMy8yMDE3IDM6NTk6MDkgUE0maGFzaF92YWx1ZT1aUmZ4YUl1dWx1dk1TeGxkOGVtUyt3PT0mdmFsaWRtaW51dGVzPTE0NDA=
+
+
+
+
+opcion 3
+type="application\/x-mpegurl"[^<]+src="(.*?)">
+1.http://nimlive3.giniko.com/irib4/irib4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMy8yMDE3IDM6NTk6MDkgUE0maGFzaF92YWx1ZT1aUmZ4YUl1dWx1dk1TeGxkOGVtUyt3PT0mdmFsaWRtaW51dGVzPTE0NDA=
+
+NOTA LA FUNCION [^<]+ SALTA LA LINEA
+
+
+opccion 4 acas se cuentan los espacios en blanco exactos con [\w\W\s]{0,9} hasta llegar a un punto de referencia
+
+type="application\/x-mpegurl"[\w\W\s]{0,9}src="(.*?)">
+1.http://nimlive3.giniko.com/irib4/irib4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMy8yMDE3IDM6NTk6MDkgUE0maGFzaF92YWx1ZT1aUmZ4YUl1dWx1dk1TeGxkOGVtUyt3PT0mdmFsaWRtaW51dGVzPTE0NDA=
+
+
+
+opcion 5
+
+type="application\/x-mpegurl"\s........src="(.*?)">
+1.http://nimlive3.giniko.com/irib4/irib4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMy8yMDE3IDM6NTk6MDkgUE0maGFzaF92YWx1ZT1aUmZ4YUl1dWx1dk1TeGxkOGVtUyt3PT0mdmFsaWRtaW51dGVzPTE0NDA=
+
+
+
+**********
+(\d{2})
+
+\d    digito
+{2}   de dos cifras
+(\d{2}) capturar digito de dos cifras 
+
+**********
+ejemplo
+<li class="pager__item"><a class="pager__link" href="http://www.animeyt.tv/animes/?page=2">2</a></li>
+<li class="pager__item"><a class="pager__link" href="http://www.animeyt.tv/animes/?page=3">3</a></li>
+<li class="pager__item"><a class="pager__link" href="http://www.animeyt.tv/animes/?page=4">4</a></li>
+<li class="pager__item"><a class="pager__link" href="http://www.animeyt.tv/animes/?page=5">5</a></li>
+<li class="pager__item"><a class="pager__link" href="http://www.animeyt.tv/animes/?page=6">6</a></li>
+<li class="pager__item"><a class="pager__link" href="http://www.animeyt.tv/animes/?page=7">7</a></li>
+<li class="pager__item"><a class="pager__link icon-derecha
+
+resultado
+1.	1
+Match 80
+1.	2
+Match 81
+1.	2
+Match 82
+1.	3
+Match 83
+1.	0
+Match 84
+1.	5
+Match 85
+**************************************************
+
+
+.*  cualquier caracter como < >
+
+
+alt="(.*?)".*"anime__img".*\s.*\s.*\s.*\s.*href="(.*?)"
+
+ejemplo
+<img src="http://www.animeyt.tv/files/img/series/s_2066_poster.jpeg" alt="Aikatsu!" class="anime__img">
+</a>
+</div>
+<div class="anime--flip__back">
+<a href="http://www.animeyt.tv/aikatsu"
+
+resultado
+Match 1
+1.	Ai Mai Mi
+2.	http://www.animeyt.tv/ai-mai-mi
+Match 2
+1.	Ai Mai Mii 2
+2.	http://www.animeyt.tv/ai-mai-mii-2
+Match 3
+1.	Ai Mai! Moe Can Change!
+2.	http://www.animeyt.tv/ai-mai-moe-can-change
+************
+
+
+esta expresion extrae los enlaces de capitulos y nombre de estos LO MAS IMPORTANTE EXTRAER EL NOMBRE 
+* un caracater
+\n line termination sequences
+(.*) caracateres alfanumericos NO TOMA LOS  < > POR ESO PONE LOQUE ESTA ANTES DE ESE SIMBOLO
+
+href="(.*ver.*?)">*\n(.*)
+
+<div class="serie-capitulos__list__item">
+<span class="icon-triangulo-derecha"></span>
+<a href="http://www.animeyt.tv/ver/air-gear-5-sub-espanol">
+Air Gear 5 sub español
+</a>
+</div>
+<div class="serie-capitulos__list__item">
+<span class="icon-triangulo-derecha"></span>
+<a href="http://www.animeyt.tv/ver/air-gear-4-sub-espanol">
+Air Gear 4 sub español
+</a>
+</div>
+<div class="serie-capitulos__list__item">
+<span class="icon-triangulo-derecha"></span>
+<a href="http://www.animeyt.tv/ver/air-gear-3-sub-espanol">
+Air Gear 3 sub español
+</a>
+</div>
+<div class="serie-capitulos__list__item">
+<span class="icon-triangulo-derecha"></span>
+<a href="http://www.animeyt.tv/ver/air-gear-2-sub-espanol">
+Air Gear 2 sub español
+</a>
+</div>
+<div class="serie-capitulos__list__item">
+<span class="icon-triangulo-derecha"></span>
+<a href="http://www.animeyt.tv/ver/air-gear-1-sub-espanol">
+Air Gear 1 sub español
+
+
+RESULTADO
+Match 1
+1.	http://www.animeyt.tv/ver/air-gear-especial-sub-espanol
+2.	Air Gear Especial sub español
+Match 2
+1.	http://www.animeyt.tv/ver/air-gear-ova-2-sub-espanol
+2.	Air Gear Ova 2 sub español
+Match 3
+1.	http://www.animeyt.tv/ver/air-gear-ova-1-sub-espanol
+2.	Air Gear Ova 1 sub español
+Match 4
+1.	http://www.animeyt.tv/ver/air-gear-25-sub-espanol
+2.	Air Gear 25 sub español
+Match 5
+1.	http://www.animeyt.tv/ver/air-gear-24-sub-espanol
+2.	Air Gear 24 sub español
+
+
+************
+
+
