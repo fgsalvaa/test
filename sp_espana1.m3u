@@ -1,3 +1,5 @@
+#EXTM3U
+
 #EXTINF:-1, tvg-logo="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/1f/1355295.png" group-title="SuperMospyTV" , #
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YwEAAB%2bLCAAAAAAABAANy8mOgjAAANAPIsQW2gKHObCpLEbEAik3dpHFigIO8eNn3v25mJIouGu8s4723BNZuBtg4r72tJ56Vs%2fXl7wpUM69yE2O2VWSga5E3Uq4Ku3oxAxudxNv38St7UZvT58uOyFGz5yaGJgQweyF9UzYZmv1kMfSJSjT46lawhBMo7547fceb609%2bLx%2bQMN0UvSFSi1JGYEiAbkiorrIxVzWiFgqWC00UpSwUr99PG468JtzX6hDp1ZD6Q2Bz4UIrHOcCjOdsBJArQmKMEK5aThOfuCYj3KAd%2bwMo42WrKvHFR8C41fYD1PhQom1E0sWV2o%2f4Sx7SbZotbv2u7Z9IKgqDrul7BAaF8D627x30ZN2YXgbL7rQRZ9fJ%2fkPz1h5lw9rqxZq1Xjvqc2Ifv4AETrLiGMBAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:-1, tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-series-xtra.jpg.pagespeed.ic.lJkZv33_d9.jpg" group-title="SuperMospyTV" , M Series Xtra
