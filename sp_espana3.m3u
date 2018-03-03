@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1  tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/583.png" group-title="Super Mospy Tv",FOX ACTION
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/zwAAAB%2bLCAAAAAAABAAFwdsOgiAAANAPas4MRH3wQbeWVyqv1UsLwrIpWaik8%2bM7p0kg%2bMQUSwOVv%2fQ7kR1v88Op7aGcyjnGgL2SVY9YhNPZA8MpCrqRh48wfG%2fUkUp4TPq9S%2bt87fugIVXWAViQyZRcdaMonerCkWoTPJ11qxV4RbtLBgezr2UitoHq%2fcaF7TjejLn4oPLuXMlhuSP9VhFqKBW7MQUauqVYlgUUQqlmakhnBmHLbH59ITNvL2R6jnMgfIezh23%2fAZNyeUnPAAAA$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:-1  tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/583.png" group-title="Super Mospy Tv",FOX ACTION MEX
