@@ -27,3 +27,4 @@ http://201.219.100.30:1935/telpintv/ttv.stream_360p/playlist.m3u8
 http://us.watcha.live/ch16/hi.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:51.0)+Gecko/20100101+Firefox/51.0&mode=12
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",pakapaka
 http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
+
