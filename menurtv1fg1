@@ -348,27 +348,20 @@ http://0.00
 http://aztecalive-lh.akamaihd.net:80/i/0qm7cjvop_1@502476/index_3_av-p.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="MEXICO",[COLOR green]Azteca[/COLOR] [COLOR whithe]13 HD[/COLOR][COLOR red]Ferrer[/COLOR]
 ttp://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="MEXICO",[COLOR green]Azteca[/COLOR] [COLOR whithe]7 Monterrey[/COLOR][COLOR red]Ferrer[/COLOR]
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=AZMX0068
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="MEXICO",[COLOR red]ADN[/COLOR] [COLOR whithe]40[/COLOR][COLOR red]Ferrer[/COLOR]
 http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/master.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="MEXICO",[COLOR green]Azteca[/COLOR] [COLOR whithe]+Plus[/COLOR][COLOR red]Ferrer[/COLOR]
 http://aztecalive-lh.akamaihd.net/i/0qfv8evsp_1@458764/master.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="MEXICO",[COLOR green]Azteca[/COLOR] [COLOR whithe]+Plus[/COLOR][COLOR red]Ferrer[/COLOR]
 http://aztecalive-lh.akamaihd.net/i/0qfv8evsp_1@458764/index_3_av-p.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="MEXICO",[COLOR green]Azteca[/COLOR] [COLOR whithe]Noticias[/COLOR][COLOR red]Ferrer[/COLOR]
-http://aztecalive-lh.akamaihd.net/i/0qeij0bji_1@26639/index_3_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="MEXICO",[COLOR green]Foro[/COLOR] [COLOR whithe]TV[/COLOR][COLOR red]Ferrer[/COLOR]
 http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="MEXICO",[COLOR green]Foro[/COLOR] [COLOR whithe]TV259[/COLOR][COLOR red]Ferrer[/COLOR]
-http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_259_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="MEXICO",[COLOR green]Efekto[/COLOR] [COLOR whithe]TV SD[/COLOR][COLOR red]Ferrer[/COLOR]
 http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/index_3_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="MEXICO",[COLOR green]Efekto[/COLOR] [COLOR whithe]TV HD[/COLOR][COLOR red]Ferrer[/COLOR]
 http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/index_3_av-p.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="MEXICO",[COLOR green]Milenio[/COLOR] [COLOR whithe]TV[/COLOR][COLOR red]Ferrer[/COLOR]
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
-
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO",[COLOR green]az13[/COLOR] [COLOR whithe]america[/COLOR][COLOR red]Ferrer[/COLOR]
 http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_2_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO",[COLOR green]az13[/COLOR] [COLOR whithe]master[/COLOR][COLOR red]Ferrer[/COLOR]
@@ -377,51 +370,26 @@ http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
 http://aztecalive-lh.akamaihd.net/i/0qfv8evsp_1@458764/index_1_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO",[COLOR green]az+[/COLOR] [COLOR whithe]master[/COLOR][COLOR red]Ferrer[/COLOR]
 http://aztecalive-lh.akamaihd.net/i/0qfv8evsp_1@458764/master.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO",[COLOR green]adn[/COLOR] [COLOR whithe]40[/COLOR][COLOR red]Ferrer[/COLOR]
-ttp://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/index_3_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO",[COLOR green]wapa[/COLOR] [COLOR whithe]master[/COLOR][COLOR red]Ferrer[/COLOR]
-http://dcunilive14-lh.akamaihd.net/i/dclive_1@176094/master.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO",[COLOR green]TV7[/COLOR] [COLOR whithe]MX[/COLOR][COLOR red]Ferrer[/COLOR]
-http://216.227.135.186:1935/gpacifico4/smil:mazatlan.smil/playlist.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO",[COLOR green]TV[/COLOR] [COLOR whithe]MOCHIS[/COLOR][COLOR red]Ferrer[/COLOR]
-http://216.227.135.186:1935/gpacifico2/smil:mochis.smil/chunklist_w1854582142_b1428000_sleng.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO",[COLOR green]TV[/COLOR] [COLOR whithe]CULIACAN[/COLOR][COLOR red]Ferrer[/COLOR]
-http://216.227.135.186:1935/gpacifico1/smil:gpculiacan.smil/chunklist_w1277967391_b1428000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO",[COLOR green]Telemax[/COLOR] [COLOR whithe]Mexico[/COLOR][COLOR red]Ferrer[/COLOR]
-http://enhd.co:1935/ilive/ilive/playlist.m3u8?
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO",[COLOR green]TVmas[/COLOR] [COLOR whithe]Mexico[/COLOR][COLOR red]Ferrer[/COLOR]
 rtmp://50.7.98.234/rtv/videortv
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO",[COLOR green]Forotv[/COLOR] [COLOR whithe]Mexico[/COLOR][COLOR red]Ferrer[/COLOR]
 http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO",[COLOR green]canal 44[/COLOR] [COLOR whithe]Mexico[/COLOR][COLOR red]Ferrer[/COLOR]
-http://canal44-lh.akamaihd.net/i/ch_canal44@325633/master.m3u8?DVR	
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO",[COLOR green]MultimedioLento[/COLOR] [COLOR whithe]Mexico[/COLOR][COLOR red]Ferrer[/COLOR]
-http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO",[COLOR green]MultimedioLaguna[/COLOR] [COLOR whithe]Mexico[/COLOR][COLOR red]Ferrer[/COLOR]
 http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8?
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO",[COLOR green]MultimedioMonterrey[/COLOR] [COLOR whithe]Mexico[/COLOR][COLOR red]Ferrer[/COLOR]
 http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8?
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO",[COLOR green]TVmas Veracruz[/COLOR] [COLOR whithe]Mexico[/COLOR][COLOR red]Ferrer[/COLOR]
 http://50.7.98.234:1935/rtv/videortv//playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO",[COLOR green]TVp Mazatlan[/COLOR] [COLOR whithe]Mexico[/COLOR][COLOR red]Ferrer[/COLOR]
-http://216.227.135.186:1935/gpacifico4/smil:mazatlan.smil/chunklist_w829019339_b1428000_sleng.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO",[COLOR green]TVp YAqui[/COLOR] [COLOR whithe]Mexico[/COLOR][COLOR red]Ferrer[/COLOR]
-http://216.227.135.186:1935/gpacifico3/smil:obregon.smil/chunklist_w1903526755_b1428000_sleng.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO",[COLOR green]TV Tabasco[/COLOR] [COLOR whithe]Mexico[/COLOR][COLOR red]Ferrer[/COLOR]
-http://tvttabasco-lh.akamaihd.net/i/ch_1@325634/master.m3u8
+
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO",[COLOR green]TV Tlaxcala[/COLOR] [COLOR whithe]Mexico[/COLOR][COLOR red]Ferrer[/COLOR]
 http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO",[COLOR green]TV Guerrero[/COLOR] [COLOR whithe]Mexico[/COLOR][COLOR red]Ferrer[/COLOR]
 http://50.7.98.234:1935/5936soyguerrero/guerrerovideo/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO",[COLOR green]TV 44 juarez[/COLOR] [COLOR whithe]Mexico[/COLOR][COLOR red]Ferrer[/COLOR]
-http://canal44-lh.akamaihd.net/i/ch_canal44@325633/index_1000k_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO",[COLOR green]Telemar Capeche[/COLOR] [COLOR whithe]Mexico[/COLOR][COLOR red]Ferrer[/COLOR]
 http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO",[COLOR green]Canal 11[/COLOR] [COLOR whithe]Mexico[/COLOR][COLOR red]Ferrer[/COLOR]
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/master.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO",[COLOR green]Canal 11[/COLOR] [COLOR whithe]Mexico[/COLOR][COLOR red]Ferrer[/COLOR]
-http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO",[COLOR green]Canal 8[/COLOR] [COLOR whithe]Mexico[/COLOR][COLOR red]Ferrer[/COLOR]
 http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/master.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO",[COLOR green]Canal 10 chetumal[/COLOR] [COLOR whithe]Mexico[/COLOR][COLOR red]Ferrer[/COLOR]
@@ -436,33 +404,6 @@ http://wos1.smartcast.com.mx:1935/mvs/mvs_radio/mvs_radio.m3u8
 http://ooyalahd2-f.akamaihd.net/i/UnoTV02_delivery@122617/master.m3u8
 
 
-
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",[COLOR deepskyblue]S.O.[/COLOR] [COLOR whithe]Ny[/COLOR][COLOR red]Ferrer[/COLOR]
-http://ryuk.onetvgratis.com/lstream4/get/infinity/ship/203.flv 
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",[COLOR deepskyblue]F.O.X[/COLOR] [COLOR whithe]SPORT2HD[/COLOR][COLOR red]Ferrer[/COLOR]
-http://ryuk.onetvgratis.com/lstream4/get/infinity/ship/527.flv
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",[COLOR deepskyblue]A[/COLOR] [COLOR whithe]XN[/COLOR][COLOR red]Ferrer[/COLOR]
-http://ryuk.onetvgratis.com/lstream4/get/infinity/ship/213.flv
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",[COLOR deepskyblue]Boo[/COLOR] [COLOR whithe]meran[/COLOR][COLOR red]Ferrer[/COLOR]
-http://ryuk.onetvgratis.com/lstream4/get/infinity/ship/324.flv
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",[COLOR deepskyblue]Cartoon[/COLOR] [COLOR whithe]Network[/COLOR][COLOR red]Ferrer[/COLOR]
-http://ryuk.onetvgratis.com/lstream4/get/infinity/ship/320.flv
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",[COLOR deepskyblue]Cine[/COLOR] [COLOR whithe]max[/COLOR][COLOR red]Ferrer[/COLOR]
-http://ryuk.onetvgratis.com/lstream4/get/infinity/ship/481.flv
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",[COLOR deepskyblue]FO[/COLOR] [COLOR whithe]X[/COLOR][COLOR red]Ferrer[/COLOR]
-http://ryuk.onetvgratis.com/lstream4/get/infinity/ship/251.flv
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",[COLOR deepskyblue]Fox[/COLOR] [COLOR whithe]Action HD (sever2)[/COLOR][COLOR red]Ferrer[/COLOR]
-http://ryuk.onetvgratis.com/lstream4/get/infinity/ship/416.flv
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",[COLOR deepskyblue]Fox[/COLOR] [COLOR whithe]Movie HD[/COLOR][COLOR red]Ferrer[/COLOR]
-http://ryuk.onetvgratis.com/lstream4/get/infinity/ship/417.flv
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",[COLOR deepskyblue]So[/COLOR] [COLOR whithe]ny[/COLOR][COLOR red]Ferrer[/COLOR]
-http://ryuk.onetvgratis.com/lstream4/get/infinity/ship/203.flv
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",[COLOR deepskyblue]Film[/COLOR] [COLOR whithe]Zone[/COLOR][COLOR red]Ferrer[/COLOR]
-http://ryuk.onetvgratis.com/lstream4/get/infinity/ship/440.flv
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",[COLOR deepskyblue]Funiversal[/COLOR] [COLOR whithe]HD[/COLOR][COLOR red]Ferrer[/COLOR]
-http://ryuk.onetvgratis.com/lstream4/get/infinity/ship/207.flv
-
-
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	MLB Network INGLES
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	Canal 9 Salta
@@ -470,14 +411,10 @@ http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	Canal Capital
 http://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8?&dnt=true
 
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	PANAMERICANA PERU
-https://cdnh15.iblups.com/hls/ptv.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	Ciudad Magazine 
-http://prepublish.f.qaotic.net/f01/ngrp:magazine_live01-100083_all/chunklist_b346000.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	La Mega Mundial
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	VISUAL RADIO
+http://wms.shared.streamshow.it/visualradio/visualradio_mobile/playlist.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	La Mega Mundial musica
 http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	Latina TV
-http://cialive-live.hds.adaptive.level3.net/hls-live/ciaremux-live/_definst_/live.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	PortalFoxMix Tv music
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	TC Mi Canal
@@ -486,8 +423,6 @@ http://elcanaldelfutbol.com/static/wowza/test/hls/10001/480p/playlist.m3u8
 http://186.155.200.118:1935/live/telemusica/playlist.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	TELEMICRO 5 musica
 http://api.new.livestream.com/accounts/736348/events/5552503/live.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	TELEMUNDO PR RACETV
-https://cdnh8.iblups.com/hls/33hssQ13ID.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	TN 23 televisiete
 http://d3no10dikm8m8e.cloudfront.net/gt/smil:canal_23.smil/chunklist_b1155072.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	TV PERU
@@ -496,42 +431,22 @@ http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
 https://cdnh15.iblups.com/hls/RMuwrdk7M9.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	TV UNAM
 http://api.new.livestream.com/accounts/12380647/events/3843134/live.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	Teleritmo MUSICA
-http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	Television de Galicia Internacional lengua
-http://media3.crtvg.es:1935/live/tvge_2/livestream.m3u8?IPTVBRASILHD
+
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	TvMAS HD
 http://50.7.98.234:1935/rtv/videortv/playlist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	UNIMAS HD
-http://nitrotv.for-the.biz:25461/live/EAS22/7777/2932.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	UNIVISION PR
-https://cdnh8.iblups.com/hls/TzMLT5VhhH.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	VISUAL RADIO
-http://wms.shared.streamshow.it/visualradio/visualradio_mobile/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	Wapa TV
-http://live-14.viewer.dacast.com/i/dclive_1@176094/master.m3u8?%20%20hdnea=st=1483507345~exp=1483507465~acl=/i/dclive_1@176094*~hmac=304cf197dc18418cb8d82cb20d6110464bac3e15b449c9d%20%201cd3cc6d76236955c
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	Wapa
-http://dcunilive14-lh.akamaihd.net/i/dclive_1@176094/master.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	Univisión Puerto Rico
-https://cdnh8.iblups.com/hls/TzMLT5VhhH.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	SuperCanal RDOCANA
-http://newyorkstream.ddns.net:1935/supercanalcaribe/supercanalcaribe/playlist.m3u8?wowzasessionid=1572023888
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	Teleuniverso RDOCANA
 http://ss9.domint.net:1942/tu_str/universo/chunklist_w501782081.m3u8
 
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	TV Uno
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	TV Uno CostaRica
 http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	8TVEspaña
 http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1058883651.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	RtvceEspaña
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	RtvceEspaña cataluña
 http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	MEGA TV P**
 http://play.hostreamperu.com:1935/8016/8016/playlist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	PANAMERICANATV P**
-http://cdnh15.iblups.com/hls/ptv.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	IPETV PEQUES
 http://cdnh4.iblups.com/hls/irtp.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	TVPERÚ7.3 P
@@ -542,28 +457,20 @@ http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	CULTURA24 TV P
 http://vs8.live.opencaster.com/cultura24/_definst_/mp4:cultura24_480/playlist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	UNOTV P
-http://216.245.198.126:1935/unotv/myStream/chunklist_w760646820.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	CENTRAL P
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	RPPNOTICIAS P
-http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoRPPWC/_definst_/live/stream1.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	VIA TELEVISIÓN P
 http://wse8.player.tv.br:1935/viatv/viatv/playlist.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	ANTARES TV P
 http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	SOLTV  P
-http://wowzaserver.net:1935/vivo21/vivo21/playlist.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	PACÍFICOTV P
 http://cdn2.ujjina.com:1935/iptvpacifico/livepacificotv/playlist.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	RBC P
 http://184.154.28.210:1935/rbc-tv/rbc-tv/playlist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	TOPLATINO TV P
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	TOPLATINO TV P musica
 http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	CAPITALTV P
 http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoCAPTV/_definst_/live/stream1.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	WILLAXTV P
-http://movil.mediastream.pe/vv_willax/livestream/playlist.m3u8?wowzasessionid=996342462
 
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	TelpinTVCanal 2ARG
 http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
@@ -571,7 +478,7 @@ http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
 http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	Canal4 AR
 http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w437571733.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",canal4	AR TNT HD
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",canal4 AR TNT HD
 http://streaming.wirenetserver.com.ar:1935/canal4/live_1/livestream.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	Canal 9 Salta AR
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
@@ -579,49 +486,29 @@ http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 http://200.115.193.177/live/26hd-720/.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	TLX AR
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	Tec TV AR
-http://tectvhls-lh.akamaihd.net/i/tectvHLS_1@334993/master.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	Qm Noticias AR
-http://qmnoticiashls-lh.akamaihd.net/i/qmnoticiasTEST_hls@324831/master.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	Power HD MUSICA!!!
 http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	Orbe 21
-http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	MusicTop MUSICA!!!
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	Cool103.7 MUSICA!!!ARG
 http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	AméricaTV BUFER NO FUNCIONABIEN
-http://prepublish.f.qaotic.net/epa/ngrp:americatvlive-100056_all/1.m3u8
 
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	CANALi vENE
-http://edge.wms28.lorini.net/canal-i/canal-i/playlist.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	TLT VENE
 http://enc-fwt.lorini.net/telet/telet/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	LatinaTV VENE
-http://cialive-live.hds.adaptive.level3.net/hls-live/ciaremux-live/_definst_/live/stream4.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	WillaxTV VENE
-http://m.mediastream.pe/vv_willax/livestream/.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	LaSemana VENE
 http://wceatv1.srfms.com:2177/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	Canal Judicial
 http://dl-scjn.scjn.gob.mx/scjn/scjn.mp4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	WFox30 INGLES
-http://cmghlslive-i.akamaihd.net/hls/live/224710/WFOX/904k/prog.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	Weather Channel INGLES
-http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	ABC NEWS INGLES
 http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	Al Jazeera INGLES
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index255.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	BBC WORLD NEWS INGLES
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	Bloomberg INGLES
-http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	CBN NEWS INGLES
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	CBN NEWS INGLES
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	CBN NEWS INGLES 720
 http://cbsNEWShd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	CSPAN INGLES
 http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/index_1000_av-p.m3u8?sd=10&amp;rebase=on
@@ -633,67 +520,21 @@ http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/index_1000_av-p.m3u8?sd=10&amp;r
 http://www.metafilegenerator.de/DWelle/tv-northamerica/ios/master.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	DW NEWS
 http://dwstream4-lh.akamaihd.net:80/i/dwstream4_live@131329/index_1_av-b.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	InfoWars
-http://infowarslive-lh.akamaihd.net/i/infowarslivestream_1@353459/master.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	Fox News Radio
-http://fnurtmp-f.akamaihd.net/i/FNRADIOHDS_1@92141/master.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	FOX NEWS 23
-http://cmghlslive-i.akamaihd.net/hls/live/224709/KOKI/904k/prog.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	FOX 25 NEWS
-http://cmghlslive-i.akamaihd.net:80/hls/live/224671/WFXT/904k/prog.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	FOX 30 NEWS
-http://cmghlslive-i.akamaihd.net:80/hls/live/224710/WFOX/904k/prog.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	FOX 59 NEWS
 http://wxintribune-lh.akamaihd.net/i/WXINTribune_1@120151/master.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	France 24
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	NEWSMAX TV
-http://ooyalahd2-f.akamaihd.net/i/newsmax02_delivery@119568/master.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	MSNBC
 http://sky@tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1896_av-b.m3u8?sd=10
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	PressTV
-http://178.32.255.199:1935/live/ptven/playlist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	RTDocumentary
-http://rt-doc-live.hls.adaptive.level3.net/rt/doc/index1600.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	Rusia Today
-http://rt.ashttp14.visionip.tv/live/rt-global-live-HD/playlist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	SkyNEWS
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skyNEWS/1404/live/04.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	Channel NEWS Asia
-http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	VoA
-http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	Nigeria TVC News
-http://77.92.76.135:1935/tvcnews/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	TRTWORLD
-http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	WGNChicago
-http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="INGLES",TRT World (INGLES)
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INGLES",abc news
-http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
 
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INGLES",CBSN (source #01)
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INGLES",CBSN (source #02)
-http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4ce359830f572d2496a947&iu=/8264/vaw-can/mobile_web/cbsnews_mobile
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INGLES",CNBC (source #01)
-http://208.86.19.123:8080/live/107.stream/index.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INGLES", EuroSports
-http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INGLES",  Milenio TV
 https://dl.dropboxusercontent.com/s/dh5k6plvgjwgbic/milenio.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="INGLES",ferrerlist Milenio TV
 https://dl.dropboxusercontent.com/s/7adowbjpjmk6qrs/ferrerlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",be.ein Deportes Ferrelits
-https://dl.dropboxusercontent.com/s/1lifdv7od2ax29w/ferrerlistbeinspor_ch38allcast2020.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",be.ein ñ Deportes Ferrerlist
-https://dl.dropboxusercontent.com/s/8dfcs3n27pcfr19/ferrerlistbein%C3%B1_ch33allcast2020-1.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",CaracolFerrerlist
 https://dl.dropboxusercontent.com/s/fr70ed0prdc1d80/FerrerlistCaracol.m3u8
