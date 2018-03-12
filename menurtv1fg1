@@ -52,28 +52,13 @@ http://www.coninfo.net:1935/tvcinco/live2/playlist.m3u8
 http://panel.dattalive.com:1935/8044/8044/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Canal9 riocuarto
 rtmp://canal9riocuartotv.com.ar:1935/canal9riocuarto/canal9riocuartotv
-
-
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Los Simpson 24/7
-http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",paka
-http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Animation
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
-
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",RT
-http://rt.ashttp14.visionip.tv/live/RT_en_Espanol-SD/chunklist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	RTEspañol
-http://rt-esp-live.hls.adaptive.level3.net/rt/esp/index1600.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",EuroNews
-http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/_es.m3u8
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Telesur480
 http://cdna.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Telesur360
 http://cdna.telesur.ultrabase.net/mbliveMain/360p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Telesur mb
-http://cdna.telesur.ultrabase.net/mbliveMain/ngrp:mblive_all/chunklist_b456000.m3u8|User-Agent=ArtearPlayer/3.2.42 (Linux;Android 4.4.2) ExoPlayerLib/1.5.9
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",Telesur AR
 http://cdna.telesur.ultrabase.net/mbliveMain/ngrp:mblive_all/playlist.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",TV MARTI
@@ -94,8 +79,6 @@ http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/index_1_av-b.m3u8?sd=10
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",alfatv
 rtsp://streamer1.streamhost.org:1935/salive/GMIalfah
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",tvp
-http://prepublish.f.qaotic.net/a06/ngrp:c7live02Internacional-20034_all/Playlist.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",DeporTV Argentina
 http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
 
@@ -151,10 +134,6 @@ http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
 http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_2_av-b.m3u8?sd=10&amp;rebase=on
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",Nova Espana index2 p
 http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_2_av-p.m3u8?sd=10&amp;rebase=on
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",laotra
-http://laotra-live.hls.adaptive.level3.net/hls-live/telemadrid-laotra/_definst_/live/stream1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",TELEMADRID iphone
-http://iphone.telemadrid.es.edgesuite.net/telemadridsat_iphone.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",M20 spa
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 
@@ -172,16 +151,6 @@ http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8
 http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0700_av-p.m3u8?sd=10&amp;rebase=on
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",SEVILLA FC 300
 http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-p.m3u8?sd=10&amp;rebase=on
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",BETISFC
-http://rbetis-hls.flumotion.com/rbetis/live/chunklist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",CHELSY TV
-http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",tlt venezuela
-http://stream.vod.co.ve:80/telet/telet/index.m3u8|User-Agent=iPad
-
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",galatv (Cancun)jeje
 http://74.222.3.185:1935/live/ngrp:galatvcancun_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",GALATV FORTOTV (Merida)
@@ -198,12 +167,8 @@ rtmp://198.24.135.42:80/canal10/canal10
 http://198.24.135.42:80/canal11/canal11/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 12
 http://d1clhs11e3tzzj.cloudfront.net/sv/smil:canal12.smil/chunklist_b981072.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 15
-http://198.24.135.42:80/canal15/canal15/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 17
 http://streamingcontrol.com:1935/tbbcentral/l1v1.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 21 EL SALVADOR 
-http://xgrupomegavisionx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",CANAL 23 TVO EL SALVADOR
 http://xtvocanal23x.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",CANAL 23 TVX EL SALVADOR
@@ -216,14 +181,7 @@ http://162.244.81.181:1935/live//Stream1/playlist.m3u8
 http://162.220.218.101:8081/live/stream1.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",ChapinTv 3
 http://d3no10dikm8m8e.cloudfront.net/gt/smil:canal_3.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Telesistema
-http://mek6.mekstream.com/telesistema/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Telesistema
-http://mek6.mekstream.com/telesistema/live/chunklist_w1259447063.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Televicentro Honduras
-http://tvchonduras-lh.akamaihd.net/i/ch_1@325635/index_250k_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",H C H Honduras
-http://4.31.30.140:1935/live/hchtvdigital/playlist.m3u8?wowzasessionid=1792561590
+
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",R.P.C SD
 http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live/rpc-live/streamout-360p/chunks.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",R.P.C 720
@@ -232,59 +190,32 @@ http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live/rpc-live/streamout-720p/
 http://cdnlive.medcom.com.pa/medcom-livestream/tm-live/tm-live/streamout-720p/chunks.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	Telemetro SD
 http://cdnlive.medcom.com.pa/medcom-livestream/tm-live/tm-live/streamout-360p/chunks.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="EL SALVADOR",	ECOTVPANAMA
-http://cdnlive.medcom.com.pa/medcom-livestream/eco-live/eco-live/streamout-720p/chunks.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="EL SALVADOR",Canal 6CR
-http://dcfnah8d3r4n1.cloudfront.net/cr_repretel_canal6_ip/smil:v2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",COLOSAL Cr
 rtmp://k3.usastreams.com:1935/colosaltv1/colosaltv1
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",SMO Cr
-rtmp://199.217.118.90:1935/smotv/stream
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="EL SALVADOR",TICAVISION
 http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="EL SALVADOR",	BHTV
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="EL SALVADOR",	SUPER 5 TV
-http://k3.usastreams.com/superC/_definst_/mp4:superC_2/chunklist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="EL SALVADOR",ANEXIÓN TV
-http://rtmp.info:1935/anexiontv/envivo/chunklist.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="EL SALVADOR",NEX TV
 http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="EL SALVADOR",	NIU (f.o.x)
 http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",canal4 FOXHBOTNT
 http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w437571733.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",canal5 MM
-http://v1.streaminglatinoamerica.com:1935/canal5/canal5/live.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",AYSENTV
-http://v1.streaminglatinoamerica.com:1935/aysentv/aysentv/playlist.m3u8
-
-
-
 
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",Canal 26hd arg HD
 http://live-edge01.telecentro.net.ar:1935/live/26hd-720/livestream.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",Canal 26hd arg360 
 http://live-edge01.telecentro.net.ar:1935/live/26hd-360/livestream.m3u8
 
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA",Kiss tv  (musica) (ferrer)
-rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
-#EXTINF:-0 tvg-logo="samplelogo.png" group-title="COLOMBIA",Telecaribe Multi(ferrer)
-http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/master.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA",Señal Colombia Multi(ferrer)
-http://cdns840stu1010.multistream.net/rtvc2live/amlst:scolombia/master.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA",Telecafe hls(ferrer)
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA",Señal Institucional (ferrer)
-http://cdns840stu1010.multistream.net/rtvclive/amlst:live/master.m3u8?
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA",TELEANTIOQUIA HD hls(ferrer)
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8?
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA",Telemedellin hls(ferrer)
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8?
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA",CosmoVision hls(ferrer)
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA",CANAL CAPITAL Mult(ferrer)
-http://cdns840stu1010.multistream.net/canalcapitallive/amlst:live/master.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA",CANAL U hls(ferrer)
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8?
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA",TV AGRO hls(ferrer)
