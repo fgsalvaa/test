@@ -82,32 +82,19 @@ http://dqsz3cincv704.cloudfront.net/pe/smil:canal_atv.smil/playlist.m3u8
 http://dqsz3cincv704.cloudfront.net/pe/smil:canal_atv.smil/chunklist_b1155072.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/esSKT1T.jpg?Tvninjaxd" group-title="",ATV+
 http://bit.do/Pe-Tvninjaxd-10?Live.tv.m3u8
-
-#EXTINF:-1 tvg-id="CLARO SPORTS" tvg-name="CLARO SPORTS" tvg-logo="https://pbs.twimg.com/profile_images/412626363011457024/s87vGCpO.jpeg" group-title="DEPORTES - SPORTS",CLARO SPORTS (*)
-http://jjoo2016ch01-hlsfix.clarovideo.com/Content/hls/Live/Channel(jjoo2016ch01)/Stream(05)/index.m3u8
-#EXTINF:-1,TLC
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TLC)/Stream(01)/index.m3u8
-
 #EXTINF:1,CANAL 4 azteka          
 http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
 #EXTINF:1,CANAL 5 chilevision
 http://chv.movil.rtsp.ztreaming.com/chvmovil2/chilevision@140569/chunklist_w787114469.m3u8
 
 
-
-
-
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", CANAL WOWTV EL SALVADORR
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",rcn hd z
 https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8?tecnotv.info?.m3u
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Caracol
-http://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8?&dnt=true&ref=http%3A%2F%2Flive2.caracoltv.com%2FNoticias%2Fpl-ms.html
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", R.P.C 
 http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live/rpc-live/streamout-360p/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",TELEFE
-http://us.watcha.live/ch6/hi.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:51.0)+Gecko/20100101+Firefox/51.0&mode=12
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",ELTRECETV
 http://prepublish.f.qaotic.net/a03/ngrp:el13_live01-100083_all/chunklist_b1459000.m3u8|User-Agent=ArtearPlayer/3.2.42 (Linux;Android 4.4.2) ExoPlayerLib/1.5.9
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",CN5 CINEAR
@@ -164,41 +151,29 @@ https://secure-streams.akamaized.net/rt-esp/index400.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",DW Latinoamericaaa
 http://www.metafilegenerator.de:80/DWelle/tv-latinoamerica/ios/master.m3u8
 
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", Antena 3 Index 2
-http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/index_2_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", Antena 3 SERIES Index2
-http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_2_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", La sexta ESPAÑA index2*
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_2_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", MEGA  ESPAÑA Index 2* amp
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-b.m3u8?sd=10&amp;rebase=on|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", NEOX  ESPAÑA Index2 b
-http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_2_av-b.m3u8?sd=10&amp;rebase=on
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",Nova Espana index2 b
-http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_2_av-b.m3u8?sd=10&amp;rebase=on
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", La Cuatro
 http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/stream1/streamPlaylist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",LA CUATRO NEW
 https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_1.m3u8
+#EXTINF:-1, la cuatro
+http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/index.m3u8
+#EXTINF:-1, la cuatro2
+http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/stream2/streamPlaylist.m3u8
 
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", Telecinco
 http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/stream1/streamPlaylist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",telecinco NUEVO
 https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_1.m3u8
-
-#EXTINF:-1, la cuatro
-http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/index.m3u8
-#EXTINF:-1, la cuatro2
-http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/stream2/streamPlaylist.m3u8
-#EXTINF:-1, la 1
-http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
-#EXTINF:-1, divinity
-https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_2.m3u8
 #EXTINF:-1, tele5
 http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/index.m3u8
 #EXTINF:-1, tele5 2
 http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/stream2/streamPlaylist.m3u8
+
+#EXTINF:-1, la 1
+http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
+#EXTINF:-1, divinity
+https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_2.m3u8
 
 #EXTINF:-1, antena 3HD bitrate_4
 https://atresplayerp-i.akamaized.net/antena3mpp/bitrate_4.m3u8
@@ -213,8 +188,6 @@ https://atresplayers-i.akamaized.net/a3seriesmpp/bitrate_4.m3u8
 https://atresplayers-i.akamaized.net/a3seriesmpp/bitrate_2.m3u8
 #EXTINF:-1, A3S HD MASTER NOGEO 
 https://atresplayers-i.akamaized.net/a3seriesmpp/master.m3u8
-
-
 
 #EXTINF:-1, Nova HD bitrate_4 NOgeo
 https://atresplayerp-i.akamaized.net/novampp/bitrate_4.m3u8
@@ -231,15 +204,12 @@ https://atresplayerp-i.akamaized.net/lasextampp/bitrate_2.m3u8
 #EXTINF:-1, La sexta HD master
 https://atresplayerp-i.akamaized.net/lasextampp/master.m3u8
 
-
-
 #EXTINF:-1, neox HD nogeo bitrate_4
 https://atresplayerp-i.akamaized.net/neoxmpp/bitrate_4.m3u8
 #EXTINF:-1, neox HD nogeo bitrate_2
 https://atresplayerp-i.akamaized.net/neoxmpp/bitrate_2.m3u8
 #EXTINF:-1, neox HD nogeo master
 https://atresplayerp-i.akamaized.net/neoxmpp/master.m3u8
- 
 
 #EXTINF:-1, mega HD nogeo bitrate_4
 https://atresplayerp-i.akamaized.net/megampp/bitrate_4.m3u8 
