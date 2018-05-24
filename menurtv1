@@ -351,19 +351,3 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA", Antena 3  (Españ) (ferrer)
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8?
 
-
-
-#EXTINF:-1,applive AGE
-https://mp4.vaughnsoft.net/live?app=live&stream=live_zonafilmsterror|referer=https://vaughnlive.tv/zonafilmsterror
-
-#EXTINF:-1,beto7 tv
-https://mp4.vaughnsoft.net/live?app=live&stream=live_beto_7|referer=https://vaughnlive.tv/beto_7
-
-#EXTINF:-1,cine calidad
-https://mp4.vaughnsoft.net/live?app=live&stream=live_cine_calidad|referer=https://vaughnlive.tv/cine_calidad
-
-#EXTINF:-1,cine star
-https://mp4.vaughnsoft.net/live?app=live&stream=live_cine_star|referer=https://vaughnlive.tv/cine_star
-
-#EXTINF:-1,cine xtremo
-https://mp4.vaughnsoft.net/live?app=live&stream=live_cinextremo|referer=https://vaughnlive.tv/cinextremo
