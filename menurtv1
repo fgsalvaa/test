@@ -1,10 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/-WRHSZkHIfgo/TWrFF6t7PzI/AAAAAAAAAag/OlsA7MM5d-0/s1600/Azteca+7+logo+2011.jpg",Azteca 7
 http://aztecalive-lh.akamaihd.net/i/0pq46e6vw_1@502477/index_3_av-b.m3u8?
-#EXTINF:-1,MOD kAthy hd limpo
-https://mp4.vaughnsoft.net/live?app=live&port=2935&stream=live_katyhd
-#EXTINF:-1,MOD katyhd fire
-https://mp4.vaughnsoft.net/live?app=live&port=2935&stream=live_katyhd|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:51.0)+Gecko/20100101+Firefox/51.0&mode=12
+
 #EXTINF:-1,MOD katyhd
 https://mp4.vaughnsoft.net/live?app=live&port=2935&stream=live_katyhd|referer=https://vaughnlive.tv/katyhd
 #EXTINF:-1,MOD vitato tv
