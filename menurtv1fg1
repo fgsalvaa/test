@@ -9,14 +9,8 @@ http://aztecalive-lh.akamaihd.net/i/0pq46e6vw_1@502477/index_3_av-b.m3u8?
 http://aztecalive-lh.akamaihd.net/i/0pq46e6vw_1@502477/master.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Canal 4 azteca
 http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",ESPN index
-http://51.15.222.188/live/espndeportes/index.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Uni+
-http://nlds116.cdnak.dal.neulion.com/nlds/univisionnow/unimas_east/as/live/unimas_east_hd_androidtab.m3u8?hdnea=expires=1496782140~access=/nlds/univisionnow/unimas_east/as/live/*~md5=faa203f52f13f1fdc38700454e03ee82
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Univision deportes 
 https://nludnoo.akamaized.net/nlds/univision/as/live/udnoo_hd_4500_ipad.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Telemundo
-http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/index_1500_av-b.m3u8?
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Chilevision
 http://chv.movil.rtsp.ztreaming.com/chvmovil2/chilevision@140569/chunklist_w787114469.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Todo DEPORTES 
@@ -26,10 +20,6 @@ http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w644334483.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",rcn hd
 https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8?tecnotv.info?.m3u
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Caracol
-http://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8?&dnt=true&ref=http%3A%2F%2Flive2.caracoltv.com%2FNoticias%2Fpl-ms.html
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",Caracol HD
-https://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",vtv
 http://cdn.streamingmedia.cl:1935/live//vtvvina/playlist.m3u8
 
@@ -212,8 +202,6 @@ http://cdn.elsalvadordigital.com:1935/canal23/canal23/chunklist_w1934239224.m3u8
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 2 Nicaragua
 http://162.244.81.181:1935/live//Stream1/playlist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="EL SALVADOR",	GUATEVISION
-http://162.220.218.101:8081/live/stream1.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",ChapinTv 3
 http://d3no10dikm8m8e.cloudfront.net/gt/smil:canal_3.smil/playlist.m3u8
 
