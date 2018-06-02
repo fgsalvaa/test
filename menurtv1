@@ -1,68 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/-WRHSZkHIfgo/TWrFF6t7PzI/AAAAAAAAAag/OlsA7MM5d-0/s1600/Azteca+7+logo+2011.jpg",Azteca 7
 http://aztecalive-lh.akamaihd.net/i/0pq46e6vw_1@502477/index_3_av-b.m3u8?
-
-#EXTINF:-1,MOD katyhd
-https://mp4.vaughnsoft.net/live?app=live&port=2935&stream=live_katyhd|referer=https://vaughnlive.tv/katyhd
-#EXTINF:-1,MOD vitato tv
-https://mp4.vaughnsoft.net/live?app=live&port=2935&stream=live_vitatotv|referer=https://vaughnlive.tv/vitatotv
-#EXTINF:-1,MOD mega movies
-https://mp4.vaughnsoft.net/live?app=live&port=2935&stream=live_mega_movieshd|referer=https://vaughnlive.tv/mega_movieshd
-#EXTINF:-1,MOD cine calidad
-https://mp4.vaughnsoft.net/live?app=live&port=2935&stream=live_cine_calidad|referer=https://vaughnlive.tv/cine_calidad
-#EXTINF:-1,MOD cine star
-https://mp4.vaughnsoft.net/live?app=live&port=2935&stream=live_cine_star|referer=https://vaughnlive.tv/cine_star
-#EXTINF:-1,MOD lcreme staff
-https://mp4.vaughnsoft.net/live?app=live&port=2935&stream=live_lcreme_staff|referer=https://vaughnlive.tv/lcreme_staff
-#EXTINF:-1,MOD lcreme dreams
-https://mp4.vaughnsoft.net/live?app=live&port=2935&stream=live_lcreme_dreams|referer=https://vaughnlive.tv/lcreme_dreams
-#EXTINF:-1,MOD lcreme horror
-https://mp4.vaughnsoft.net/live?app=live&port=2935&stream=live_lcreme_horror|referer=https://vaughnlive.tv/lcreme_horror
-#EXTINF:-1,MOD lcreme plus
-https://mp4.vaughnsoft.net/live?app=live&port=2935&stream=live_lcremeplushd|referer=https://vaughnlive.tv/lcremeplushd
-
-#EXTINF:-1,MOD morena channel tv
-https://mp4.vaughnsoft.net/live?app=live&port=2935&stream=live_morena_channels12|referer=https://vaughnlive.tv/morena_channels12
-#EXTINF:-1,MOD chespirito tv
-https://mp4.vaughnsoft.net/live?app=live&port=2935&stream=live_chespirito_tv|referer=https://vaughnlive.tv/chespirito_tv
-
-#EXTINF:-1,MOD Mega animes
-https://mp4.vaughnsoft.net/live?app=live&port=2935&stream=live_mega_animes|referer=https://vaughnlive.tv/mega_animes
-#EXTINF:-1,MOD goku tv
-https://mp4.vaughnsoft.net/live?app=live&port=2935&stream=live_goku_tv|referer=https://vaughnlive.tv/goku_tv
-#EXTINF:-1,MOD dr daniel jackson
-https://mp4.vaughnsoft.net/live?app=live&port=2935&stream=live_dr_daniel_jackson|referer=https://vaughnlive.tv/dr_daniel_jackson
-
-
-#EXTINF:-1,MOD broad movies
-https://mp4.vaughnsoft.net/live?app=live&port=2935&stream=live_broadmovieshd|referer=https://vaughnlive.tv/broadmovieshd
-
-#EXTINF:-1,MOD ciencia ficcion
-https://mp4.vaughnsoft.net/live?app=live&port=2935&stream=live_cienciaficcion01|referer=https://vaughnlive.tv/cienciaficcion
-#EXTINF:-1,MOD ciencia ficcion 01
-https://mp4.vaughnsoft.net/live?app=live&port=2935&stream=live_cienciaficcion01|referer=https://vaughnlive.tv/cienciaficcion01
-
-#EXTINF:-1,MOD films terror
-https://mp4.vaughnsoft.net/live?app=live&port=2935&stream=live_zonafilmsterror|referer=https://vaughnlive.tv/zonafilmsterror
-#EXTINF:-1,MOD terror mania
-https://mp4.vaughnsoft.net/live?app=live&port=2935&stream=live_terror_mania|referer=https://vaughnlive.tv/terror_mania
-#EXTINF:-1,MOD club terror
-https://mp4.vaughnsoft.net/live?app=live&port=2935&stream=live_club_terror|referer=https://vaughnlive.tv/club_terror
-#EXTINF:-1,MOD mega_extremo
-https://mp4.vaughnsoft.net/live?app=live&port=2935&stream=live_mega_extremo|referer=https://vaughnlive.tv/mega_extremo
-
-#EXTINF:-1,MOD mega_chavo
-https://mp4.vaughnsoft.net/live?app=live&port=2935&stream=live_mega_chavo|referer=https://vaughnlive.tv/mega_chavo
-#EXTINF:-1,MOD mega_animes
-https://mp4.vaughnsoft.net/live?app=live&port=2935&stream=live_mega_animes|referer=https://vaughnlive.tv/mega_animes
-
-#EXTINF:-1,MOD a_neflix
-https://mp4.vaughnsoft.net/live?app=live&port=2935&stream=live_a_neflix|referer=https://vaughnlive.tv/a_neflix
-#EXTINF:-1,MOD anahix_11
-https://mp4.vaughnsoft.net/live?app=live&port=2935&stream=live_anahix_11|referer=https://vaughnlive.tv/anahix_11
-
-
-
 #EXTINF:-1,Univision deportes 
 https://nludnoo.akamaized.net/nlds/univision/as/live/udnoo_hd_4500_ipad.m3u8
 #EXTINF:-1,Chilevision
