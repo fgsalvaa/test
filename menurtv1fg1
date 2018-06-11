@@ -2,6 +2,64 @@
 #EXTINF:-1,[COLOR gold] F[/COLOR][COLOR red] E[/COLOR][COLOR gold] R[/COLOR][COLOR gold] R[/COLOR][COLOR red] E[/COLOR][COLOR gold] R[COLOR blue]LIST [/COLOR][COLOR gold] !!!![/COLOR]
 http://www.metafilegenerator.de:80/DWelle/tv-latinoamerica/ios/master.m3u8
 
+#EXTINF:-1,GALA TV 
+http://189.216.247.113/Content/HLS/Live/Channel(GALATV_SD)/index.m3u8
+#EXTINF:-1,FORO TV
+http://189.216.247.113/Content/HLS/Live/Channel(FOROTV_HD)/index.m3u8 
+#EXTINF:-1,NBA_TV
+http://189.216.247.113/Content/HLS/Live/Channel(NBA_TV)/index.m3u8 
+#EXTINF:-1,FUSION TV 
+http://189.216.247.113/Content/HLS/Live/Channel(FUSION)/index.m3u8 
+#EXTINF:-1,NICK_JR 
+http://189.216.247.113/Content/HLS/Live/Channel(NICK_JR)/index.m3u8 
+#EXTINF:-1,NICK
+http://189.216.247.113/Content/HLS/Live/Channel(NICK_HD)/index.m3u8
+#EXTINF:-1,GOLDEN 
+http://189.216.247.113/Content/HLS/Live/Channel(GOLDEN_HD)/index.m3u8
+#EXTINF:-1,TNT
+http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/index.m3u8
+#EXTINF:-1,TDN
+http://189.216.247.113/Content/HLS/Live/Channel(TDN)/index.m3u8
+#EXTINF:-1,UNICABLE
+http://189.216.247.113/Content/HLS/Live/Channel(UNICABLE_HD)/index.m3u8
+#EXTINF:-1,CANAL 5 MX
+http://189.216.247.113/Content/HLS/Live/Channel(XHGC)/index.m3u8
+
+#EXTINF:-1,ESPN HD index
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/index.m3u8
+
+#EXTINF:-1,ESPN SD index
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN_SD)/index.m3u8
+
+#EXTINF:-1,ESPN HD index/Stream(05) 
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(05)/index.m3u8
+#EXTINF:-1,ESPN SD index/Stream(05)
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN_SD)/Stream(05)/index.m3u8
+
+
+#EXTINF:-1,ESPN 2
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(06)/index.m3u8
+#EXTINF:-1,NAT GEO WILD
+http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/Stream(05)/index.m3u8
+#EXTINF:-1,SPACE 
+http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/Stream(05)/index.m3u8
+#EXTINF:-1, MTV LIVE
+http://189.216.247.113/Content/HLS/Live/Channel(MTV_Live_HD)/index.m3u8
+#EXTINF:-1,BANDA MAX
+http://189.216.247.113/Content/HLS/Live/Channel(BANDAMAX)/index.m3u8
+#EXTINF:-1,DISTRITO COMEDIA
+http://189.216.247.113/Content/HLS/Live/Channel(DISTRITO_COMEDIA)/Stream(05)/index.m3u8
+#EXTINF:-1,EL GOURMET
+http://189.216.247.113/Content/HLS/Live/Channel(EL_GOURMET)/Stream(05)/index.m3u8
+
+
+#EXTINF:-1,ARTEAR
+http://cdn.prepro.cvattv.com.ar/live/live/ArtearHD/SA_Live/ArtearHD.m3u8|user-agent=chrome
+#EXTINF:-1,AMERICA TV ARG
+http://prepublish.f.qaotic.net/a07/ngrp:americahls-100056_all/Playlist.m3u8|user-agent=iPhone
+#EXTINF:-1,TYC SPORTS
+http://200.89.190.163:80/live/live/TyCSportHD/SA_Live/TyCSportHD.m3u8
+
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Azteca 7
 http://aztecalive-lh.akamaihd.net/i/0pq46e6vw_1@502477/index_3_av-b.m3u8?
