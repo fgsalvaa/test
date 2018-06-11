@@ -28,17 +28,27 @@ http://189.216.247.113/Content/HLS/Live/Channel(XHGC)/index.m3u8
 #EXTINF:-1,ESPN HD index
 http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/index.m3u8
 
-#EXTINF:-1,ESPN SD index
-http://189.216.247.113/Content/HLS/Live/Channel(ESPN_SD)/index.m3u8
-
 #EXTINF:-1,ESPN HD index/Stream(05) 
 http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(05)/index.m3u8
-#EXTINF:-1,ESPN SD index/Stream(05)
-http://189.216.247.113/Content/HLS/Live/Channel(ESPN_SD)/Stream(05)/index.m3u8
+
+#EXTINF:-1,ESPN  index
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN)/index.m3u8
+#EXTINF:-1,ESPN  index/Stream(05)
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN)/Stream(05)/index.m3u8
 
 
 #EXTINF:-1,ESPN 2
 http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(06)/index.m3u8
+#EXTINF:-1,ESPN 2 05
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(05)/index.m3u8
+
+
+#EXTINF:-1,FOX SPORT HD2 05
+http://189.216.247.113/Content/HLS/Live/Channel(FOX_SPORTS_HD)/Stream(05)/index.m3u8
+#EXTINF:-1,FOX SPORT2 HD2 05
+http://189.216.247.113/Content/HLS/Live/Channel(FOX_SPORTS2_HD)/Stream(05)/index.m3u8
+
+
 #EXTINF:-1,NAT GEO WILD
 http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/Stream(05)/index.m3u8
 #EXTINF:-1,SPACE 
