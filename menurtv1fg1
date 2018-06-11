@@ -2,24 +2,24 @@
 #EXTINF:-1,[COLOR gold] F[/COLOR][COLOR red] E[/COLOR][COLOR gold] R[/COLOR][COLOR gold] R[/COLOR][COLOR red] E[/COLOR][COLOR gold] R[COLOR blue]LIST [/COLOR][COLOR gold] !!!![/COLOR]
 http://www.metafilegenerator.de:80/DWelle/tv-latinoamerica/ios/master.m3u8
 
-#EXTINF:-1,GALA TV Stream(03)/
-http://189.216.247.113/Content/HLS/Live/Channel(GALATV_SD)/Stream(03)/index.m3u8
-#EXTINF:-1,FORO TV Stream(03)/
-http://189.216.247.113/Content/HLS/Live/Channel(FOROTV_HD)/Stream(03)/index.m3u8 
-#EXTINF:-1,NBA_TV Stream(03)/
-http://189.216.247.113/Content/HLS/Live/Channel(NBA_TV)/Stream(03)/index.m3u8 
-#EXTINF:-1,FUSION TV Stream(03)/
-http://189.216.247.113/Content/HLS/Live/Channel(FUSION)/Stream(03)/index.m3u8 
-#EXTINF:-1,NICK_JR Stream(03)/
-http://189.216.247.113/Content/HLS/Live/Channel(NICK_JR)/Stream(03)/index.m3u8 
-#EXTINF:-1,NICK Stream(03)/
-http://189.216.247.113/Content/HLS/Live/Channel(NICK_HD)/Stream(03)/index.m3u8
-#EXTINF:-1,GOLDEN Stream(03)/
-http://189.216.247.113/Content/HLS/Live/Channel(GOLDEN_HD)/Stream(03)/index.m3u8
+#EXTINF:-1,GALA TV Stream(05)/
+http://189.216.247.113/Content/HLS/Live/Channel(GALATV_SD)/Stream(05)/index.m3u8
+#EXTINF:-1,FORO TV Stream(05)/
+http://189.216.247.113/Content/HLS/Live/Channel(FOROTV_HD)/Stream(05)/index.m3u8 
+#EXTINF:-1,NBA_TV Stream(05)/
+http://189.216.247.113/Content/HLS/Live/Channel(NBA_TV)/Stream(05)/index.m3u8 
+#EXTINF:-1,FUSION TV Stream(05)/
+http://189.216.247.113/Content/HLS/Live/Channel(FUSION)/Stream(05)/index.m3u8 
+#EXTINF:-1,NICK_JR Stream(05)/
+http://189.216.247.113/Content/HLS/Live/Channel(NICK_JR)/Stream(05)/index.m3u8 
+#EXTINF:-1,NICK Stream(05)/
+http://189.216.247.113/Content/HLS/Live/Channel(NICK_HD)/Stream(05)/index.m3u8
+#EXTINF:-1,GOLDEN Stream(05)/
+http://189.216.247.113/Content/HLS/Live/Channel(GOLDEN_HD)/Stream(05)/index.m3u8
 #EXTINF:-1,TNT
 http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/index.m3u8
-#EXTINF:-1,TNTStream(03)/
-http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/Stream(03)/index.m3u8
+#EXTINF:-1,TNTStream(05)/
+http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/Stream(05)/index.m3u8
 
 
 #EXTINF:-1,TDN
@@ -30,16 +30,12 @@ http://189.216.247.113/Content/HLS/Live/Channel(TDN)/Stream(05)/index.m3u8
 http://189.216.247.113/Content/HLS/Live/Channel(TDN)/Stream(03)/index.m3u8
 
 
-#EXTINF:-1,UNICABLES tream(03)/
-http://189.216.247.113/Content/HLS/Live/Channel(UNICABLE_HD)/Stream(03)/index.m3u8
-#EXTINF:-1,CANAL 5 MX Stream(03)/
-http://189.216.247.113/Content/HLS/Live/Channel(XHGC)/Stream(03)/index.m3u8
+#EXTINF:-1,UNICABLES tream(05)/
+http://189.216.247.113/Content/HLS/Live/Channel(UNICABLE_HD)/Stream(05)/index.m3u8
 
 #EXTINF:-1,CANAL 5 MX Stream(05)/
 http://189.216.247.113/Content/HLS/Live/Channel(XHGC)/Stream(05)/index.m3u8
 
-#EXTINF:-1,ESPN HD indexStream(03)/
-http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(03)/index.m3u8
 #EXTINF:-1,ESPN HD index/Stream(05) 
 http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(05)/index.m3u8
 
@@ -54,18 +50,18 @@ http://189.216.247.113/Content/HLS/Live/Channel(FOX_HD)/Stream(05)/index.m3u8
 #EXTINF:-1,FOX1
 http://189.216.247.113/Content/HLS/Live/Channel(FOX1_HD)/Stream(05)/index.m3u8
 
-#EXTINF:-1,NAT GEO WILD Stream(03)/
-http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/Stream(03)/index.m3u8
-#EXTINF:-1,SPACE Stream(03)/
-http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/Stream(03)/index.m3u8
-#EXTINF:-1, MTV LIVE Stream(03)/
-http://189.216.247.113/Content/HLS/Live/Channel(MTV_Live_HD)/Stream(03)/index.m3u8
-#EXTINF:-1,BANDA MAX Stream(03)/
-http://189.216.247.113/Content/HLS/Live/Channel(BANDAMAX)/Stream(03)/index.m3u8
-#EXTINF:-1,DISTRITO COMEDIA Stream(03)/
-http://189.216.247.113/Content/HLS/Live/Channel(DISTRITO_COMEDIA)/Stream(03)/index.m3u8
-#EXTINF:-1,EL GOURMET Stream(03)/
-http://189.216.247.113/Content/HLS/Live/Channel(EL_GOURMET)/Stream(03)/index.m3u8
+#EXTINF:-1,NAT GEO WILD Stream(05)/
+http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/Stream(05)/index.m3u8
+#EXTINF:-1,SPACE Stream(05)/
+http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/Stream(05)/index.m3u8
+#EXTINF:-1, MTV LIVE Stream(05)/
+http://189.216.247.113/Content/HLS/Live/Channel(MTV_Live_HD)/Stream(05)/index.m3u8
+#EXTINF:-1,BANDA MAX Stream(05)/
+http://189.216.247.113/Content/HLS/Live/Channel(BANDAMAX)/Stream(05)/index.m3u8
+#EXTINF:-1,DISTRITO COMEDIA Stream(05)/
+http://189.216.247.113/Content/HLS/Live/Channel(DISTRITO_COMEDIA)/Stream(05)/index.m3u8
+#EXTINF:-1,EL GOURMET Stream(05)/
+http://189.216.247.113/Content/HLS/Live/Channel(EL_GOURMET)/Stream(05)/index.m3u8
 
 
 #EXTINF:-1,ARTEAR
