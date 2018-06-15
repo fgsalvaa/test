@@ -232,6 +232,37 @@ http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_2_av-p.m3u8?sd=10&a
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",M20 spa
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 
+
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",fdf
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_1.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",energi
+https://mdslivehls-i.akamaihd.net/hls/live/571649/energy/bitrate_1.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",divinity
+https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_1.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",boing
+https://mdslivehls-i.akamaihd.net/hls/live/571647/boing/bitrate_1.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",bemad
+https://mdslivehls-i.akamaihd.net/hls/live/571646/bemad/bitrate_1.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",cuatro
+https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_1.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",telecinco
+https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_1.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",la uno
+http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",la siete
+http://la7-vh.akamaihd.net/i/content/entry/data/0/299/0_b7o9lvba_0_kyyr8vxz_1.mp4/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",rusia today
+https://secure-streams.akamaized.net/rt-esp/index.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",tvmonde
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",lancelotv
+http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",toplatino
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w430979689.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",DXTV 200a
 http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",Real Madrid TV
