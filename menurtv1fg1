@@ -2,46 +2,41 @@
 #EXTINF:-1,[COLOR gold] F[/COLOR][COLOR red] E[/COLOR][COLOR gold] R[/COLOR][COLOR gold] R[/COLOR][COLOR red] E[/COLOR][COLOR gold] R[COLOR blue]LIST [/COLOR][COLOR gold] !!!![/COLOR]
 http://www.metafilegenerator.de:80/DWelle/tv-latinoamerica/ios/master.m3u8
 
-#EXTINF:-1,TDN xxx hls
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TDN)/index.m3u8
-#EXTINF:-1,TDN Stream(05)/ xxx
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TDN)/Stream(05)/index.m3u8
-#EXTINF:-1,TDN Stream(03)/ xxxx
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TDN)/Stream(03)/index.m3u8
-#EXTINF:-1,ESPN HD index/Stream(05) xxx
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(ESPN_HD)/Stream(05)/index.m3u8
-#EXTINF:-1,ESPN 2 03
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(ESPN2_HD)/Stream(05)/index.m3u8
-#EXTINF:-1,ESPN 2 03
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(ESPN2_HD)/Stream(05)/index.m3u8
 
-
-#EXTINF:-1,A&E HD 
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(AE_MUNDO_HD)/Stream(03)/index.m3u8
+#EXTINF:-1,A&E HD agente
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(AE_MUNDO_HD)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
 
 #EXTINF:-1,ANIMAL PLANET HD
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(ANIMAL_PLANET_HD)/Stream(03)/index.m3u8
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(ANIMAL_PLANET_HD)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+
 
 #EXTINF:-1,ANTENA 3
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(ANTENA3)/Stream(03)/index.m3u8
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(ANTENA3)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+
 
 #EXTINF:-1,ARIRANG
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(ARIRANG)/Stream(03)/index.m3u8
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(ARIRANG)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+
 
 #EXTINF:-1,AXN HD
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(AXN_HD)/Stream(03)/index.m3u8
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(AXN_HD)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+
 
 #EXTINF:-1,BABYTV
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(BABYTV)/Stream(03)/index.m3u8
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(BABYTV)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+
 
 #EXTINF:-1,BBC WORLD
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(BBC_WORLD)/Stream(03)/index.m3u8
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(BBC_WORLD)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+
 
 #EXTINF:-1,BLOOMBERG
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(BLOOMBERG)/Stream(03)/index.m3u8
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(BLOOMBERG)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
 
-#EXTINF:-1,CARACO int
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(CARACOL_INT)/Stream(03)/index.m3u8
+
+#EXTINF:-1,CARACO int agente
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(CARACOL_INT)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+
 
 #EXTINF:-1,COMEDY CENTRAL HD
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(COMEDY_CENTRAL_HD)/Stream(03)/index.m3u8
