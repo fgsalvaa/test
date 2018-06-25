@@ -374,21 +374,26 @@ http://k3.usastreams.com:1935/colosaltv1/colosaltv1/playlist.m3u8?JoCaRoIPTV.m3u
 http://cdnlive.medcom.com.pa/medcom-livestream/eco-live/playlist.m3u8
 #EXTINF:-1,Nextv | SD
 http://198.1.117.5:1935/live/livestream/master.m3u8
-#EXTINF:-1 tvg-logo="http://admin.ciudadplus.com/SVsitefiles/rocco/contenido/med/b29b40_tvn.jpg" ,TVN PANAMA
-https://cflive.live-delivery.ooyala.com/out/u/ezye7lz7hql35/107829/toaWp2YTE6Hpzo8bu4cDFPiloPhk9oIC/cn/342e43a0bc384c2f8f81652fa15f3949_1.m3u8
+
 #EXTINF:-1 tvg-logo="http://admin.ciudadplus.com/SVsitefiles/rocco/contenido/med/b29b40_tvn.jpg" ,TVN PANAMA
 https://cflive.live-delivery.ooyala.com/out/u/ezye7lz7hql35/107829/toaWp2YTE6Hpzo8bu4cDFPiloPhk9oIC/cn/342e43a0bc384c2f8f81652fa15f3949_1.m3u8
 #EXTINF:-1 tvg-logo="http://sertv.gob.pa/images/NewWeb/logos/logo-sertv-portal.png" ,SER TV PANAMA
 http://162.213.123.181:1935/sertv/live/chunklist_w207424797.m3u8
-#EXTINF:-1 tvg-logo="http://mma.uno/wp-content/uploads/2016/01/unnamed.jpg" ,TV MAX PANAMA
-https://ll-c.ooyala.com/e1/JkOGNqYTE65j3KOwuEDptSwC-gD1MT1M/promo314918699
 #EXTINF:-1, tvg-logo="68GFMGv.png", Ser TV | SD
 http://162.213.123.181:1935/sertv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",Canal 26hd arg HD
 http://live-edge01.telecentro.net.ar:1935/live/26hd-720/livestream.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",Canal 26hd arg360 
-http://live-edge01.telecentro.net.ar:1935/live/26hd-360/livestream.m3u8
+http://live-edge01.telecentro.net.ar:1935/live/chd-360/livestream.m3u8
+
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",Canal 26 cmaster
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/master.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",Canal 26 sleng
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w999965802_b2628000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",C tv pu tes
+https://contar-live.secure.footprint.net/worldcup2018/worldcup2/test/800kbps.m3u8
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="COSTARICA",SMO TV  Costa Rica (ferrer)
 rtmp://199.217.118.90:1935/smotv/stream
