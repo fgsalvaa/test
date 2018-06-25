@@ -186,14 +186,14 @@ http://live.lcdn.claro.net.co/Content/hls/Live/Channel(NICK_HD)/Stream(05)/index
 #EXTINF:-1,GOLDEN Stream(05)/
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(GOLDEN_HD)/Stream(05)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
 
+
+#EXTINF:-1,TDN SD 189 AGENTE
+http://189.216.247.113/Content/HLS/Live/Channel(TDN)/Stream(01)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+
 #EXTINF:-1,TNT
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TNT_HD)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
 #EXTINF:-1,TNTStream(05)/
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TNT_HD)/Stream(05)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-
-
-#EXTINF:-1,TDN SD 189 AGENTE
-http://189.216.247.113/Content/HLS/Live/Channel(TDN)/Stream(01)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
  
 
 #EXTINF:-1,AMERICA TV ARG
