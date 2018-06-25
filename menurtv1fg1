@@ -370,6 +370,14 @@ http://cdnlive.medcom.com.pa/medcom-livestream/oyetv-live/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MÚSICA",Colosal TV
 http://k3.usastreams.com:1935/colosaltv1/colosaltv1/playlist.m3u8?JoCaRoIPTV.m3u8
 
+#EXTINF:-1, tvg-logo="rRmG5kE.jpg" group-title="Canales Panameños", ECO | HD
+http://cdnlive.medcom.com.pa/medcom-livestream/eco-live/playlist.m3u8
+#EXTINF:-1,Nextv | SD
+http://198.1.117.5:1935/live/livestream/master.m3u8
+#EXTINF:-1 tvg-logo="http://admin.ciudadplus.com/SVsitefiles/rocco/contenido/med/b29b40_tvn.jpg" ,TVN PANAMA
+https://cflive.live-delivery.ooyala.com/out/u/ezye7lz7hql35/107829/toaWp2YTE6Hpzo8bu4cDFPiloPhk9oIC/cn/342e43a0bc384c2f8f81652fa15f3949_1.m3u8
+#EXTINF:-1 tvg-logo="http://admin.ciudadplus.com/SVsitefiles/rocco/contenido/med/b29b40_tvn.jpg" ,TVN PANAMA
+https://cflive.live-delivery.ooyala.com/out/u/ezye7lz7hql35/107829/toaWp2YTE6Hpzo8bu4cDFPiloPhk9oIC/cn/342e43a0bc384c2f8f81652fa15f3949_1.m3u8
 #EXTINF:-1 tvg-logo="http://sertv.gob.pa/images/NewWeb/logos/logo-sertv-portal.png" ,SER TV PANAMA
 http://162.213.123.181:1935/sertv/live/chunklist_w207424797.m3u8
 #EXTINF:-1 tvg-logo="http://mma.uno/wp-content/uploads/2016/01/unnamed.jpg" ,TV MAX PANAMA
