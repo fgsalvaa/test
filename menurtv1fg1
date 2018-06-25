@@ -370,6 +370,12 @@ http://cdnlive.medcom.com.pa/medcom-livestream/oyetv-live/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MÚSICA",Colosal TV
 http://k3.usastreams.com:1935/colosaltv1/colosaltv1/playlist.m3u8?JoCaRoIPTV.m3u8
 
+#EXTINF:-1 tvg-logo="http://sertv.gob.pa/images/NewWeb/logos/logo-sertv-portal.png" ,SER TV PANAMA
+http://162.213.123.181:1935/sertv/live/chunklist_w207424797.m3u8
+#EXTINF:-1 tvg-logo="http://mma.uno/wp-content/uploads/2016/01/unnamed.jpg" ,TV MAX PANAMA
+https://ll-c.ooyala.com/e1/JkOGNqYTE65j3KOwuEDptSwC-gD1MT1M/promo314918699
+#EXTINF:-1, tvg-logo="68GFMGv.png", Ser TV | SD
+http://162.213.123.181:1935/sertv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",Canal 26hd arg HD
 http://live-edge01.telecentro.net.ar:1935/live/26hd-720/livestream.m3u8
