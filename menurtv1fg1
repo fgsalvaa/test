@@ -195,6 +195,10 @@ http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TNT_HD)/Stream(05)/index.
 #EXTINF:-1,TDN SD 189 
 http://189.216.247.113/Content/HLS/Live/Channel(TDN)/Stream(01)/index.m3u8 
 
+#EXTINF:-1,TDN SD 189 AGENTE
+http://189.216.247.113/Content/HLS/Live/Channel(TDN)/Stream(01)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+ 
+
 #EXTINF:-1,AMERICA TV ARG
 http://prepublish.f.qaotic.net/a07/ngrp:americahls-100056_all/Playlist.m3u8|user-agent=iPhone
 #EXTINF:-1,TYC SPORTS
