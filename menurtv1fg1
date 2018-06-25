@@ -171,25 +171,6 @@ http://live.lcdn.claro.net.co/Content/hls/Live/Channel(VH1)/Stream(03)/index.m3u
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(WARNER_HD)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
 #EXTINF:-1,claro
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(CLARO_CINEMA)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,GALA TV Stream(05)/
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(GALATV_SD)/Stream(05)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,FORO TV Stream(05)/
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOROTV_HD)/Stream(05)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,NBA_TV Stream(05)/
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(NBA_TV)/Stream(05)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,FUSION TV Stream(05)/
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FUSION)/Stream(05)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,NICK_JR Stream(05)/
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(NICK_JR)/Stream(05)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,NICK Stream(05)/
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(NICK_HD)/Stream(05)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,GOLDEN Stream(05)/
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(GOLDEN_HD)/Stream(05)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-
-
-#EXTINF:-1,TDN SD 189 AGENTE hls
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TDN)/Stream(01)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-
 #EXTINF:-1,TNT
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TNT_HD)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
 #EXTINF:-1,TNTStream(05)/
