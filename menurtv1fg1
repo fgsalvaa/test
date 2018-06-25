@@ -245,6 +245,7 @@ rtmp://canal9riocuartotv.com.ar:1935/canal9riocuarto/canal9riocuartotv
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Animation
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 
+
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Telesur480
 http://cdna.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Telesur360
@@ -253,8 +254,6 @@ http://cdna.telesur.ultrabase.net/mbliveMain/360p/chunklist.m3u8
 http://cdna.telesur.ultrabase.net/mbliveMain/ngrp:mblive_all/playlist.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",TV MARTI
 http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/index_0540_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",TV UNIVERSO
-http://ss9.domint.net:1942/tu_str/universo/chunklist_w501782081.m3u8
 
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",CNN CHILE
 http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
@@ -267,114 +266,30 @@ http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/index_1_av-b.m3u8?sd=10
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",DW US
 http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/index_1_av-b.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",alfatv
-rtsp://streamer1.streamhost.org:1935/salive/GMIalfah
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",DeporTV Argentina
 http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",Antena 3 Master*
-http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",Antena 3 Index 1
-http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/index_1_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",Antena 3 Index 2
-http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/index_2_av-b.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",Antena 3 SERIES Master*
-http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",Antena 3 SERIES Index1
-http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_1_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",Antena 3 SERIES Index2
-http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_2_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",Antena 3 SERIES Index4
-http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",LA sexta ESPAÑA
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",LA sexta ESPAÑA agent
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",La sexta ESPAÑA index2*
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_2_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",La sexta Castalba index3
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_3_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",MEGA  ESPAÑA Master
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",MEGA  ESPAÑA Index1
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_1_av-b.m3u8?sd=10&amp;rebase=on|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",MEGA  ESPAÑA Index 2* amp
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-b.m3u8?sd=10&amp;rebase=on|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",MEGA  ESPAÑA Index3 b
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",MEGA  ESPAÑA Index3 p
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",NEOX  ESPAÑA MASTER
-http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",NEOX  ESPAÑA Index1*b
-http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_1_av-b.m3u8?sd=10&amp;rebase=on
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",NEOX  ESPAÑA Index2 b
-http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_2_av-b.m3u8?sd=10&amp;rebase=on
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",NEOX  ESPAÑA index3 b
-http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_3_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",NEOX  ESPAÑA index4 b
-http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_4_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", La Cuatro
-http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/stream1/streamPlaylist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",LA CUATRO NEW
-https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", Telecinco
-http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/stream1/streamPlaylist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",telecinco NUEVO
-https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_1.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", LIFE TV
 http://178.132.6.97/uzivo/lifetvesp/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", Divinity
 https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", Energy
-https://mdslivehls-i.akamaihd.net/hls/live/571649/energy/bitrate_4.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", FDF
 https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
-
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",Nova Espana Master
-http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",Nova Espana index2 b
-http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_2_av-b.m3u8?sd=10&amp;rebase=on
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",Nova Espana index2 p
-http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_2_av-p.m3u8?sd=10&amp;rebase=on
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",M20 spa
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",M20 musica
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",fdf
 https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",energi
-https://mdslivehls-i.akamaihd.net/hls/live/571649/energy/bitrate_1.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",divinity
 https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",boing
-https://mdslivehls-i.akamaihd.net/hls/live/571647/boing/bitrate_1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",bemad
-https://mdslivehls-i.akamaihd.net/hls/live/571646/bemad/bitrate_1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",cuatro
-https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",telecinco
-https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",la uno
-http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",la siete
-http://la7-vh.akamaihd.net/i/content/entry/data/0/299/0_b7o9lvba_0_kyyr8vxz_1.mp4/master.m3u8
+
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",rusia today
 https://secure-streams.akamaized.net/rt-esp/index.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",tvmonde
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",lancelotv
-http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",toplatino
 http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w430979689.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",DXTV 200a
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",Deportv
 http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
@@ -388,14 +303,6 @@ http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8
 http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0700_av-p.m3u8?sd=10&amp;rebase=on
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",SEVILLA FC 300
 http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-p.m3u8?sd=10&amp;rebase=on
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",galatv (Cancun)jeje
-http://74.222.3.185:1935/live/ngrp:galatvcancun_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",GALATV FORTOTV (Merida)
-http://74.222.3.185:1935/live/ngrp:galatvmerida_all/playlist.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",GALATV Trecevision (Meerida)
-http://74.222.3.185:1935/live/ngrp:trecevision_all/playlist.m3u8?
-#EXTINF:0 group-title="Canales Infantiles" tvg-logo="http://vignette2.wikia.nocookie.net/anime-manga-y-vocaloid/images/f/f1/Anime_Logo_(By-AnimeGuy124).png/revision/latest?cb=20130816204103&path-prefix=es",Anime Saydaa 
-http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 10 El salvador
@@ -445,49 +352,29 @@ http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",canal4 FOXHBOTNT
 http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w437571733.m3u8
 
+
+#EXTINF:-1 tvg-logo="http://www.transdatelecom.com/images/logos/super5_pqno.png" group-title="TV",Super 5
+http://k4.usastreams.com/superC/superC_1/chunklist_w27246718.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV",TELEMUNDO HD
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1 tvg-logo="http://www.aquitodito.com/wp-content/uploads/2014/12/Televisiete.png" group-title="TV",Televisiete
+http://d3no10dikm8m8e.cloudfront.net/gt/smil:canal_7.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://telered.ec/wp-content/uploads/2016/09/logo_telered_2016.png" group-title="TV",TeleRed
+http://k4.usastreams.com/Telesistemas/Telesistemas/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://live.campushd.tv/wp-content/uploads/2017/04/LOGO-CAMPUS.png" group-title="TV",Campus HD
+http://st2.worldkast.com/8004/8004/chunklist_w1315793139.m3u8
+#EXTINF:-1 tvg-logo="http://www.tencanal10.tv/wp-content/uploads/2017/05/CovertenLOG2.png" group-title="TV",Ten HD
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
+#EXTINF:-1 tvg-logo="http://oyetv.com.pa/assets/img/logo.png" group-title="TV",Oye Tv HD
+http://cdnlive.medcom.com.pa/medcom-livestream/oyetv-live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MÚSICA",Colosal TV
+http://k3.usastreams.com:1935/colosaltv1/colosaltv1/playlist.m3u8?JoCaRoIPTV.m3u8
+
+
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",Canal 26hd arg HD
 http://live-edge01.telecentro.net.ar:1935/live/26hd-720/livestream.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",Canal 26hd arg360 
 http://live-edge01.telecentro.net.ar:1935/live/26hd-360/livestream.m3u8
-
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA",Telecafe hls(ferrer)
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA",TELEANTIOQUIA HD hls(ferrer)
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA",Telemedellin hls(ferrer)
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA",CosmoVision hls(ferrer)
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA",CANAL U hls(ferrer)
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA",TV AGRO hls(ferrer)
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_3.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA",Cable Noticias hls(ferrer)
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA",El Tiempo hls(ferrer)
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA",UNE TV Manizales hls(ferrer)
-http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEZ/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA",UNE TV CARIBE hls(ferrer)
-http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEQ/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA",UNE TV ARMENIA hls(ferrer)
-http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEA/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA",TRENDY MUSICA hls(ferrer)
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA",CANAL ANTIESTRES hls(ferrer)
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA",CANTINAZO hls(ferrer)
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA",LIFEDESING hls(ferrer)
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA",MIMUSICA HD hls(ferrer)
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA",TELE VIDA  (ferrer)
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVID/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA",VMas+ hls(ferrer)
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA",Antena 3  (Españ) (ferrer)
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8?
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="COSTARICA",SMO TV  Costa Rica (ferrer)
 rtmp://199.217.118.90:1935/smotv/stream
@@ -719,182 +606,6 @@ http://edge1.cl.grupoz.cl/teletrakmovil/smil:mobile.smil/chunklist_w424394273_b7
 https://dcunilive30-lh.akamaihd.net/i/dclive_1@535231/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Canal_IPe_Logo_PNG.png" group-title="Infantiles", IPE
 http://cdnh4.iblups.com/hls/irtp.m3u8
-
-
-
-
-
-#EXTINF:-1,MOVISTAR COMEDIA AndroidTv
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/606/index.m3u8
-#EXTINF:-1,M.FUTBOL AndroidTv
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/575/index.m3u8
-#EXTINF:-1,MOVISTAR FUTBOL HD AndroidTv
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/575/index.m3u8
-#EXTINF:-1,MOVISTAR FORMULA 1 HD UNDO CRUEL IPTV
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/612/index.m3u8
-#EXTINF:-1,MOVISTAR ACCION HD AndroidTv
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/576/index.m3u8
-#EXTINF:-1,M+ Series Xtra HD AndroidTv
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/568/index.m3u8
-#EXTINF:-1,M+ Accion HD AndroidTv
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/576/index.m3u8
-#EXTINF:-1, Movistar Golf HD AndroidTv
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/569/index.m3u8
-#EXTINF:-1,AXN White Spain AndroidTv
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/609/index.m3u8
-#EXTINF:-1,AXN WHITE AndroidTv
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/609/index.m3u8
-#EXTINF:-1,Movistar Series Xtra AndroidTv
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/568/index.m3u8
-#EXTINF:-1,m Futbol 3
-http://playlist.onlybest.tv/ru/channel/0a87ff9a1b786dc813e459e87cde2633/7/index.m3u8
-#EXTINF:-1,Eurosport 1 HD AndroidTv
-http://playlist.onlybest.tv/ru/channel/0a87ff9a1b786dc813e459e87cde2633/159/index.m3u8
-#EXTINF:-1,Eurosport 2 Russia HD AndroidTv
-http://playlist.onlybest.tv/ru/channel/0a87ff9a1b786dc813e459e87cde2633/77/index.m3u8
-#EXTINF:-1,Eurosport 2 HD AndroidTv
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/471/index.m3u8
-#EXTINF:-1,Eurosport 2 HD AndroidTv
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/472/index.m3u8
-#EXTINF:-1,Rai Sport AndroidTv
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/528/index.m3u8
-#EXTINF:-1,beIN LaLiga HD AndroidTv
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/574/index.m3u8
-#EXTINF:-1,m Futbol 3 HD AndroidTv
-http://playlist.onlybest.tv/ru/channel/0a87ff9a1b786dc813e459e87cde2633/24/index.m3u8
-#EXTINF:-1,Hash Futbol AndroidTv
-http://playlist.onlybest.tv/ru/channel/0a87ff9a1b786dc813e459e87cde2633/13/index.m3u8
-#EXTINF:-1,Nash Futbol HD AndroidTv
-http://playlist.onlybest.tv/ru/channel/0a87ff9a1b786dc813e459e87cde2633/25/index.m3u8
-#EXTINF:-1,Viasat Sport East AndroidTv
-http://playlist.onlybest.tv/ru/channel/0a87ff9a1b786dc813e459e87cde2633/45/index.m3u8
-#EXTINF:-1,Viasat Sport East HD AndroidTv
-http://playlist.onlybest.tv/ru/channel/0a87ff9a1b786dc813e459e87cde2633/75/index.m3u8
-#EXTINF:-1,KHL TV AndroidTv
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/17/index.m3u8
-#EXTINF:-1,KHL HD AndroidTv
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/291/index.m3u8
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-
-
-#EXTINF:-1,The Weather Network
-http://weather-lh.akamaihd.net:80/i/twc_1@92006/master.m3u8
-#EXTINF:-1,ESPN HD AndroidTv
-http://jadegames.ml/Content/HLS/Live/Channel(ESPN_HD)/Stream(06)/index.m3u8
-#EXTINF:-1,Movistar UNDO CRUEL IPTV
-http://vignette3.wikia.nocookie.net/logopedia/images/e/ee/MDCine.png/revision/latest?cb=20160707190104,Movistar
-#EXTINF:-1,NATGEO WILD UNDO CRUEL IPTV
-http://jadegames.ml/Content/HLS/Live/Channel(NAT_GEO_WILD)/Stream(02)/index.m3u8
-#EXTINF:-1,MLB GRANDES LIGAS AndroidTv
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLB_Network_Linear_Stream_Tuesday_20170704_1499230681478/2400K/2400_slide.m3u8
-
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-
-#EXTINF:-1,The Weather Channel UNDO CRUEL IPTV
-http://weather-lh.akamaihd.net/i/twc_1@92006/index_800_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,FM HOT CHILE PELIS AndroidTv
-http://edge1.cl.grupoz.cl/fmhot/smil:live.smil/chunklist_w1050825560_b1500000_slesp.m3u8
-#EXTINF:-1,MODA - CULTURA AndroidTv
-http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&amp;rebase=on
-#EXTINF:-1,The Weather Channel
-http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
-#EXTINF:-1,The Voice AndroidTv
-http://stream.1music.hu/stream/1music.m3u8
-#EXTINF:-1,SPACE HD AndroidTv
-http://jadegames.ml/Content/HLS/Live/Channel(SPACE)/Stream(05)/index.m3u8
-#EXTINF:-1,The Travel Channel AndroidTv
-http://pili-live-hls.livelvy.sobeycache.com/livelvy/lvy1.m3u8
-#EXTINF:-1,TV Touring Schweinfurt AndroidTv
-http://tvtourings.iptv-playoutcenter.de:1935/tvtourings/tvtourings.stream_1/playlist.m3u8
-#EXTINF:-1,TODO DEPORTES AndroidTv
-http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8?JoCaRoIPTV.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",LIFE TV
-http://178.132.6.97/uzivo/lifetvesp/tracks-v1a1/index.m3u8
-#EXTINF: -1,Telemicro Canal 5 RD AndroidTv
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVDO0005&mode=12
-#EXTINF:-1,CDF DEPORTES EN VIVO AndroidTv
-http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w822432298.m3u8
-#EXTINF:-1,SKY Sport 1 AndroidTv
-http://cdnv.cli.tn/iptv/ch922?code=610116485444847
-#EXTINF:-1,Sky Sport 2 AndroidTv
-http://cdnv.cli.tn/iptv/ch937?code=610116485444847
-#EXTINF:-1,SKY Sport 3 AndroidTv
-http://cdnv.cli.tn/iptv/ch914?code=610116485444847
-#EXTINF:-1,SKY Sport 4 AndroidTv
-http://cdnv.cli.tn/iptv/ch915?code=610116485444847
-#EXTINF:-1,SKY Sport 5 AndroidTv
-http://cdnv.cli.tn/iptv/ch916?code=610116485444847
-#EXTINF:-1,Neox HD AndroidTv
-http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_4_av-b.m3u8?sd=10&amp;rebase=on
-#EXTINF:-1,COLOR VISION CANAL 9 RD AndroidTv
-http://ss6.domint.net:2102/cvh_str/colorvisionhd/playlist.m3u8
-#EXTINF:-1,TELENORD AndroidTv
-http://www.coninfo.net:1935/previsoratv/live/chunklist_w133654096.m3u8
-#EXTINF:-1,XTREMO CANAL ZOL RD AndroidTv
-http://ss6.domint.net:1948/zol_str/vzol/playlist.m3u8
-#EXTINF:-1,CIELO TV AndroidTv
-http://swow1.blogtimedia.com:1935/cielotv/myStream.sdp/chunklist_w146683974.m3u8
-#EXTINF:-1,CNN AndroidTv
-http://unlimited1-us.dps.live/cnn/cnn.smil/cnn/livestream1/chunks.m3u8
-#EXTINF:-1,Discovery Civilization AndroidTv
-http://freeiptv.apisecurers.com/canal_61_discoverycivilization.m3u8
-#EXTINF:-1,Discovery AndroidTv
-http://vignette4.wikia.nocookie.net/logopedia/images/d/d9/Discovery_Home_%26_Health_HD.png/revision/latest?cb=20160812225428,Discovery
-#EXTINF:-1,ID Fashion AndroidTv
-http://95.67.8.22/hls/idfashion/index.m3u8
-
-#EXTINF:-1,HD Fashion AndroidTv
-http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
-#EXTINF:-1,Futbol 1 ua AndroidTv
-http://31.43.33.1:8100/ch109/index.m3u8
-#EXTINF:-1,Futbol 2 ua AndroidTv
-http://31.43.33.1:8100/ch110/index.m3u8
-#EXTINF:-1,Sport 1 AndroidTv
-http://31.43.33.1:8100/ch106/index.m3u8
-#EXTINF:-1,MostvideoTV AndroidTv
-http://31.43.33.1:8100/ch155/index.m3u8
-#EXTINF:-1,Most Video TV HD AndroidTv
-http://w4.mostvideo.tv/tv/ch1.m3u8
-#EXTINF:-1,XSport AndroidTv
-http://31.43.33.1:8100/ch54/index.m3u8
-#EXTINF:-1,Xsport AndroidTv
-http://31.43.33.1:8100/ch16/index.m3u8
-#EXTINF:-1,Eurosport olimpiada AndroidTv
-http://31.43.33.1:8100/ch107/index.m3u8
-
-
-#EXTINF:-1,CBC SPORT HD AndroidTv
-http://spb2.greatiptv.cc:5095/play/a09v?auth=nazarenko45zxc:sdfr23gh78reefgjl45
-#EXTINF:-1,Belorus 5 AndroidTv
-http://91.149.172.100:80/channel?id=102&u=demo&p=demo
-#EXTINF:-1,Setanta Sports HD AndroidTv
-http://91.149.172.100:80/channel?id=145&u=demo&p=demo
-#EXTINF:-1,Setanta Sports+ AndroidTv
-http://91.149.172.100:80/channel?id=146&u=demo&p=demo
-
-#EXTINF:-1,Gruziya sport 4 AndroidTv
-http://188.93.94.141/silk_sport4/index.m3u8
-#EXTINF:-1, CANAL 13 DE PUERTO RICO AndroidTv
-http://live247tv.com:1935/worodtcanal13/worodtcanal13/chunklist_w333080128.m3u8
-#EXTINF:-1,REAL MADRID AndroidTv
-http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,Romana TV 42 republica dominicana AndroidTv
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIDO0034&mode=12
-#EXTINF:-1,MUSICA:Music Choice Pop Hits | HD AndroidTv
-https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC133/chunklist.m3u8
-#EXTINF:-1,MUSICA:Music Choice Brits + Hits | HD AndroidTv
-https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC143/chunklist.m3u8
-#EXTINF:-1,MUSICA:Music Choice Tropicales | HD AndroidTv
-https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC137/chunklist.m3u8
-#EXTINF:-1,MUSICA:Music Choice Teen Beats | HD AndroidTv
-https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC118/chunklist.m3u8
-#EXTINF:-1,MUSICA:Music Choice Kidz Only | HD AndroidTv
-https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC130/chunklist.m3u8
-#EXTINF:-1,MUSICA:Music Choice Toddler Tunes | HD AndroidTv
-https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC144/chunklist.m3u8
-
 
 
 
