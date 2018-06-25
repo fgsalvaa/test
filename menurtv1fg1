@@ -198,6 +198,22 @@ http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TDN)/Stream(03)/index.m3u
 
 
 
+
+#EXTINF:-1 tvg-logo="http://www.xtremostereo.net/wp-content/uploads/2015/05/espn-logo.png" group-title=""DEPORTES",ESPN UUU
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+#EXTINF:-1 tvg-logo="http://i.imgur.com/6FLVrA9.png" group-title=""DEPORTES",ESPN 2
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ESPN_2_HD)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36 
+#EXTINF:-1 tvg-logo="http://www.baltimorehawks.com/uploads/4/3/2/2/43222151/e3_orig.jpg" group-title=""DEPORTES",ESPN 3
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ESPN_3_HD)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSLogo_1040x585.jpg" group-title="DEPORTES",FOXSPORTS
+http://35.196.195.222/hls/live/channel4.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-Jro2j6oneWU/UzHah3xwE3I/AAAAAAAAAZA/mB4gz-3IqMc/s1600/1977319_517502378366782_342421131_n.png" group-title=""DEPORTES",FOX SPORTS2 HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS2_HD)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+#EXTINF:-1 tvg-logo="http://www.impulsotv.com.ar/sites/default/files/canales/logos/Fox%20Sports%203HD.png" group-title=""DEPORTES",FOX SPORTS3 HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS3_HD)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+
+
+
 #EXTINF:-1,ARTEAR
 http://cdn.prepro.cvattv.com.ar/live/live/ArtearHD/SA_Live/ArtearHD.m3u8|user-agent=chrome
 #EXTINF:-1,AMERICA TV ARG
