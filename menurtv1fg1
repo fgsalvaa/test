@@ -397,6 +397,18 @@ http://cdnlive.medcom.com.pa/medcom-livestream/cos-live/cos-live/streamout-480p/
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="EL SALVADOR",Cable Onda Fc
 http://cdnlive.medcom.com.pa/medcom-livestream/cosfc-live/cosfc-live/streamout-480p/chunks.m3u8
 
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="EL SALVADOR",Canal 13 CHILE
+http://13.live.cdnz.cl/13hddesktop/13hd-desktop.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="EL SALVADOR",Canal 13 CHILE
+http://csm-e.yospace.13.cl/csm/extlive/canal13cl01,CH13M.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="EL SALVADOR",Canal 13 CHILE
+http://csm-e-ces1saexaws101j8-661hgz2zvhzy.yospace.13.cl/csm/live/108031140/2.m3u8Id=CH13M
+
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="EL SALVADOR",Canal de las estrellas
+http://0nlym3x-lh.akamaihd.net/i/c4nst02_1@175273/master.m3u8|X-Forwarded-For=148.201.0.0
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="EL SALVADOR",UnivisionDeportes
+https://nludnoo.akamaized.net/nlds/univision/as/live/udnoo_hd_4500_ipad.m3u8
+
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",COLOSAL Cr
 rtmp://k3.usastreams.com:1935/colosaltv1/colosaltv1
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="EL SALVADOR",TICAVISION
