@@ -201,9 +201,12 @@ http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w644334483.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",rcn hd
 https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8?tecnotv.info?.m3u
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",RCN agent
+https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
+
+
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",vtv
 http://cdn.streamingmedia.cl:1935/live//vtvvina/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Americatv
 http://prepublish.f.qaotic.net/epa/ngrp:americatvlive-100056_all/chunklist_b596000.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 4.3; Nexus 7 Build/JSS15Q)
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",TELEFE
@@ -273,16 +276,16 @@ http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
 http://178.132.6.97/uzivo/lifetvesp/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", Divinity
 https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",divinity
+https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_1.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",fdf
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_1.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", FDF
 https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",M20 musica
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 
 
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",fdf
-https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",divinity
-https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_1.m3u8
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",rusia today
 https://secure-streams.akamaized.net/rt-esp/index.m3u8
@@ -333,12 +336,21 @@ http://d3no10dikm8m8e.cloudfront.net/gt/smil:canal_23.smil/chunklist_b1155072.m3
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",R.P.C SD
 http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live/rpc-live/streamout-360p/chunks.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",R.P.C 480
+http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live//rpc-live/streamout-480p/chunks.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",R.P.C 720
 http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live/rpc-live/streamout-720p/chunks.m3u8
+
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="EL SALVADOR",	TelemetroHD
 http://cdnlive.medcom.com.pa/medcom-livestream/tm-live/tm-live/streamout-720p/chunks.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	Telemetro SD
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="EL SALVADOR",	Telemetro SD
 http://cdnlive.medcom.com.pa/medcom-livestream/tm-live/tm-live/streamout-360p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="EL SALVADOR",Cable Onda Sport
+http://cdnlive.medcom.com.pa/medcom-livestream/cos-live/cos-live/streamout-480p/chunks.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="EL SALVADOR",Cable Onda Fc
+http://cdnlive.medcom.com.pa/medcom-livestream/cosfc-live/cosfc-live/streamout-480p/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",COLOSAL Cr
 rtmp://k3.usastreams.com:1935/colosaltv1/colosaltv1
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="EL SALVADOR",TICAVISION
@@ -353,34 +365,34 @@ http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8
 http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w437571733.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://www.transdatelecom.com/images/logos/super5_pqno.png" group-title="TV",Super 5
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Super 5
 http://k4.usastreams.com/superC/superC_1/chunklist_w27246718.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV",TELEMUNDO HD
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",TELEMUNDO HD
 http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8?JoCaRoIPTV.m3u8
-#EXTINF:-1 tvg-logo="http://www.aquitodito.com/wp-content/uploads/2014/12/Televisiete.png" group-title="TV",Televisiete
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Televisiete
 http://d3no10dikm8m8e.cloudfront.net/gt/smil:canal_7.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://telered.ec/wp-content/uploads/2016/09/logo_telered_2016.png" group-title="TV",TeleRed
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",TeleRed
 http://k4.usastreams.com/Telesistemas/Telesistemas/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://live.campushd.tv/wp-content/uploads/2017/04/LOGO-CAMPUS.png" group-title="TV",Campus HD
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Campus HD
 http://st2.worldkast.com/8004/8004/chunklist_w1315793139.m3u8
-#EXTINF:-1 tvg-logo="http://www.tencanal10.tv/wp-content/uploads/2017/05/CovertenLOG2.png" group-title="TV",Ten HD
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Ten HD
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
-#EXTINF:-1 tvg-logo="http://oyetv.com.pa/assets/img/logo.png" group-title="TV",Oye Tv HD
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Oye Tv HD
 http://cdnlive.medcom.com.pa/medcom-livestream/oyetv-live/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MÚSICA",Colosal TV
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Colosal TV
 http://k3.usastreams.com:1935/colosaltv1/colosaltv1/playlist.m3u8?JoCaRoIPTV.m3u8
-
-#EXTINF:-1, tvg-logo="rRmG5kE.jpg" group-title="Canales Panameños", ECO | HD
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", ECO | HD
 http://cdnlive.medcom.com.pa/medcom-livestream/eco-live/playlist.m3u8
-#EXTINF:-1,Nextv | SD
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Nextv | SD
 http://198.1.117.5:1935/live/livestream/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://admin.ciudadplus.com/SVsitefiles/rocco/contenido/med/b29b40_tvn.jpg" ,TVN PANAMA
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",TVN PANAMA
 https://cflive.live-delivery.ooyala.com/out/u/ezye7lz7hql35/107829/toaWp2YTE6Hpzo8bu4cDFPiloPhk9oIC/cn/342e43a0bc384c2f8f81652fa15f3949_1.m3u8
-#EXTINF:-1 tvg-logo="http://sertv.gob.pa/images/NewWeb/logos/logo-sertv-portal.png" ,SER TV PANAMA
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",SER TV PANAMA
 http://162.213.123.181:1935/sertv/live/chunklist_w207424797.m3u8
-#EXTINF:-1, tvg-logo="68GFMGv.png", Ser TV | SD
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", Ser TV | SD
 http://162.213.123.181:1935/sertv/live/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",Canal 26hd arg HD
 http://live-edge01.telecentro.net.ar:1935/live/26hd-720/livestream.m3u8
@@ -390,6 +402,10 @@ http://live-edge01.telecentro.net.ar:1935/live/chd-360/livestream.m3u8
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",Canal 26 sleng agent
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w999965802_b2628000_sleng.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Canal 26 Playlist
+http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Canal 26 Playlist chd-360
+http://live-edge01.telecentro.net.ar/live/chd-360/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="COSTARICA",SMO TV  Costa Rica (ferrer)
@@ -400,8 +416,8 @@ rtmp://k3.usastreams.com:1935/tvuno1/tvuno1
 http://k3.usastreams.com:1935/tvsur1/tvsur1/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="COSTARICA",azteca hondu  (ferrer)
 http://aztecalive-lh.akamaihd.net/i/142kvpq0l_1@67741/master.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="SURAMERICA",Canal 26 HD - Argentina (ferrer)
-http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
+
+
 #EXTINF:-0 tvg-logo="samplelogo.png" group-title="SURAMERICA",Viajar Argentina (ferrer)
 http://eventshd-lh.akamaihd.net/i/viajar_1@168433/master.m3u8
 
