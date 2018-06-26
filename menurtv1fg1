@@ -192,11 +192,17 @@ http://aztecalive-lh.akamaihd.net/i/0pq46e6vw_1@502477/master.m3u8
 http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Univision deportes 
 https://nludnoo.akamaized.net/nlds/univision/as/live/udnoo_hd_4500_ipad.m3u8
+
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Chilevision
 http://chv.movil.rtsp.ztreaming.com/chvmovil2/chilevision@140569/chunklist_w787114469.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Todo DEPORTES 
 http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Chilevision(Chi) AGENT IPHON
+http://chv.movil.rtsp.ztreaming.com/chvmovil2/chilevision@140569/chunklist_w787114469.m3u8|User-agent=iPhone
 
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",FM HOT CHILE PELIS 
+http://edge1.cl.grupoz.cl/fmhot/smil:live.smil/chunklist_w1050825560_b1500000_slesp.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",wooooooo
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w644334483.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",rcn hd
@@ -205,8 +211,22 @@ https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8?tecnotv.in
 https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
 
 
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",vtv
-http://cdn.streamingmedia.cl:1935/live//vtvvina/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",vtv VINA
+http://cdn.streamingmedia.cl:1935/live/vtvvina/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS", VTV VINA AGENT
+http://cdn.streamingmedia.cl:1935/live/vtvvina/playlist.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",VTV 2
+http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8|User-Agent=Mozilla/5.0
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS", ATV | SD
+http://dqsz3cincv704.cloudfront.net/pe/smil:canal_atv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Atv
+http://dqsz3cincv704.cloudfront.net/pe/smil:canal_atv.smil/chunklist_b1155072.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",ATV+
+http://bit.do/Pe-Tvninjaxd-10?Live.tv.m3u8
+
+
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Americatv
 http://prepublish.f.qaotic.net/epa/ngrp:americatvlive-100056_all/chunklist_b596000.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 4.3; Nexus 7 Build/JSS15Q)
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",TELEFE
@@ -227,6 +247,9 @@ http://us.watcha.live/ch16/hi.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+Win6
 http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",TLX
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",toplatino
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w430979689.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",MUSICTOP
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",MUSIC POWER
@@ -272,18 +295,42 @@ http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/index_1_av-b.m3u8?sd=10
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",DeporTV Argentina
 http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",CDF
+http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w822432298.m3u8
+
+
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", LIFE TV
 http://178.132.6.97/uzivo/lifetvesp/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", Divinity
 https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",divinity
 https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_1.m3u8
+
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",fdf
 https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_1.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", FDF
 https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",M20 musica
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",M20 musica
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",bemad
+https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",bemad b2
+https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_2.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0
+
+
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",Azteca Uno
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",Azteca+Plus
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_3_av-p.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",Azteca 13
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_1_av-p.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36
+
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",azteca 1 america
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_2_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",azteca 1 Master
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
 
 
 
@@ -333,7 +380,6 @@ http://streamingcws10.com:1935/tvusac/smil:tvusac.smil/chunklist_w964737025_b978
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",TN 23 GUATEMALA AndroidTv
 http://d3no10dikm8m8e.cloudfront.net/gt/smil:canal_23.smil/chunklist_b1155072.m3u8
 
-
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",R.P.C SD
 http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live/rpc-live/streamout-360p/chunks.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",R.P.C 480
@@ -355,6 +401,12 @@ http://cdnlive.medcom.com.pa/medcom-livestream/cosfc-live/cosfc-live/streamout-4
 rtmp://k3.usastreams.com:1935/colosaltv1/colosaltv1
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="EL SALVADOR",TICAVISION
 http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+#EXTINF:0, Ticavision 52 AGENTE
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
+
+
+
+
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="EL SALVADOR",	BHTV
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="EL SALVADOR",NEX TV
@@ -369,6 +421,12 @@ http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w437571733.m3
 http://k4.usastreams.com/superC/superC_1/chunklist_w27246718.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",TELEMUNDO HD
 http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8?JoCaRoIPTV.m3u8
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Univision deportes 
+https://nludnoo.akamaized.net/nlds/univision/as/live/udnoo_hd_4500_ipad.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 4 azteca
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
+
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Televisiete
 http://d3no10dikm8m8e.cloudfront.net/gt/smil:canal_7.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",TeleRed
@@ -392,6 +450,10 @@ http://162.213.123.181:1935/sertv/live/chunklist_w207424797.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", Ser TV | SD
 http://162.213.123.181:1935/sertv/live/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Televicentro tsi (Hond)
+https://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/master.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Rpc(Par)
+http://174.138.118.252/live/canal13stream.m3u8|User-Agent=Mozilla/5.0
 
 
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",Canal 26hd arg HD
@@ -432,6 +494,8 @@ http://spainserver.miamitvchannel.com/miamitv/smil:miamitvspain/chunklist_w10651
 http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/master.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",MIAMI USA OPCIO2**
 http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
+
+
 
 #EXTINF:-1,[COLOR gold] F[/COLOR][COLOR red] E[/COLOR][COLOR gold] R[/COLOR][COLOR gold] R[/COLOR][COLOR red] E[/COLOR][COLOR gold] R[COLOR blue]LIST [/COLOR][COLOR gold]2!!!![/COLOR]
 http://0.00
@@ -578,6 +642,8 @@ http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 http://200.115.193.177/live/26hd-720/.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	TLX AR
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",Tv COTUI MUSICA
+http://ss1.domint.net:2204/tvc_str/tvcotui/chunklist_w1655857383.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	Power HD MUSICA!!!
 http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	MusicTop MUSICA!!!
