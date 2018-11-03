@@ -89,13 +89,35 @@ https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8|User-Age
 https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_2.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0
 
 
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",la uno master
+http://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583043/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",la uno 1500
+http://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583043/index_1500_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",mega bibrate1
+https://mega-pull2a-a3player.secure.footprint.net/mega/bitrate_1.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",mega bibrate2
+https://mega-pull2a-a3player.secure.footprint.net/mega/bitrate_2.m3u8
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",la sexta bibrate 1
+https://lasexta-pull2c-a3player.secure.footprint.net/lasexta/bitrate_1.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",la sexta bibrate 2
+https://lasexta-pull2c-a3player.secure.footprint.net/lasexta/bitrate_2.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",la sexta master
+https://lasexta-pull2c-a3player.secure.footprint.net/lasexta/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",bemad bitrate_1
+https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_1.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",bemad bitrate_2
+https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_2.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",bemad bitrate_3
+https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_3.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",bemad bitrate_4
+https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0
+
+
+
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",rusia today
 https://secure-streams.akamaized.net/rt-esp/index.m3u8
-
-
-
-
-
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",Real Madrid TV MASTER
