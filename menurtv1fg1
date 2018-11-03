@@ -2,179 +2,6 @@
 #EXTINF:-1,[COLOR gold] F[/COLOR][COLOR red] E[/COLOR][COLOR gold] R[/COLOR][COLOR gold] R[/COLOR][COLOR red] E[/COLOR][COLOR gold] R[COLOR blue]LIST [/COLOR][COLOR gold] !!!![/COLOR]
 http://www.metafilegenerator.de:80/DWelle/tv-latinoamerica/ios/master.m3u8
 
-
-#EXTINF:-1,A&E HD agente
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(AE_MUNDO_HD)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,ANIMAL PLANET HD
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(ANIMAL_PLANET_HD)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,ANTENA 3
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(ANTENA3)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,ARIRANG
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(ARIRANG)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,AXN HD
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(AXN_HD)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,BABYTV
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(BABYTV)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,BBC WORLD
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(BBC_WORLD)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,BLOOMBERG
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(BLOOMBERG)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,CARACO int agente
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(CARACOL_INT)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,COMEDY CENTRAL HD
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(COMEDY_CENTRAL_HD)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,CINECANAL HD
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(CINECANAL_HD)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,CINELATINO
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(CINELATINO)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,CINE DINAMITA
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(CINEMA_DINAMITA)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.3
-#EXTINF:-1,CITY TV
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(CITY_TV)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,CLARO CINEMA
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(CLARO_CINEMA)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,CNN esp
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(CNN_ESPANOL)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,CNN int
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(CNN_INTERNACIONAL)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,DISNEY JR
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISNEY_JR)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,DISNEY XD
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISNEY_XD)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,DE PELICULA
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DEPELICULA)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,DISCOVERY CIVILIZATION
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_CIVILIZATION)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,DISCOVERY HOME HEALTH HD
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_HOME_HEALTH_HD)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,DISCOVERY SCIENCE
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_SCIENCE)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,DISCOVERY THEATER HD
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_THEATER_HD)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,DISCOVERY TURBO
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_TURBO)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,DW AMERIKA
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DW_AMERIKA)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,DW
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DW)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,E
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(E)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,CANAL DE LAS ESTRELLAS
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(CANAL_DE_LAS_ESTRELLAS)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,EUROCHANNEL
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(EUROCHANNEL)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,FOX ACTION HD mx
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_ACTION_MEXICO_HD)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,FOX ACTION HD
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOXACTION_HD)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,FOX CINEMA HD
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_CINEMA_HD)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,FOX CLASSICS HD
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_CLASSICS_HD)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,FOX COMEDY HD
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_COMEDY_HD)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,FOX FAMILY HD
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOXFAMILY_HD)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,FOX MOVIES HD
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOXMOVIES_HD)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,FOX SERIES HD
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX1_HD)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,FOX LIFE HD
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_LIFE_HD)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,FOX HD
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_HD)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,FOXNEWS
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOXNEWS)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,THE FILM ZONE HD
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(THE_FILM_ZONE_HD)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,FX HD
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FX_HD)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,GLITZ
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(GLITZ)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,H2
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(H2)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,HBO FAMILY HD
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_FAMILY_HD)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,HBO HD
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_HD)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,HBO PLUS HD
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_PLUS_HD)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,HBO SIGNATURE HD
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_SIGNATURE_HD)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,HISTORY CHANNEL HD
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HISTORY_CHANNEL_HD)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,HEADLINE NEWS
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HEADLINE_NEWS)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,HTV
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HTV)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,ID HD
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(ID_HD)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,I SAT
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(ISAT)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,LIFETIME
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(LIFETIME)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,MAX PRIME HD
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(MAX_PRIME_HD)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,MAX
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(MAX)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,MTV HD
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(MTV_HD)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,MTV HITS
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(MTV_HITS)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,MULTIPREMIER
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(MULTIPREMIER)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,NATGEO HD
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(NATGEO_HD)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,PARAMOUNT HD
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(PARAMOUNT_HD)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,RAI
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(RAI)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,RCN TELENOVELAS
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(RCN_TELENOVELAS)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,SONY HD
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(SONY_HD)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,SPACE HD
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(SPACE_HD)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,STUDIO UNIVERSAL
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(STUDIO_UNIVERSAL)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,SUNDANCE HD
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(SUNDANCE_HD)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,TBS HD
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TBS_HD)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,TCM
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TCM)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,TELEMUNDO
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TELEMUNDO)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,TLC HD
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TLC_HD)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,TNT SERIES HD
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TNT_SERIES_HD)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,TNT HD
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TNT_HD)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,TOONCAST
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TOONCAST)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,TRU TV HD
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TRU_TV_HD)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,TV5
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TV5)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,TVE
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TVE)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,UNICABLE
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(UNICABLE)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,UNIVERSAL_CHANNEL
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(UNIVERSAL_CHANNEL)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,VH1 CLASSIC
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(VH1_CLASSIC)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,VH1
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(VH1)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,WARNER HD
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(WARNER_HD)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,claro
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(CLARO_CINEMA)/Stream(03)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,TNT
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TNT_HD)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1,TNTStream(05)/
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TNT_HD)/Stream(05)/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
  
 
 #EXTINF:-1,AMERICA TV ARG
@@ -200,37 +27,15 @@ http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Chilevision(Chi) AGENT IPHON
 http://chv.movil.rtsp.ztreaming.com/chvmovil2/chilevision@140569/chunklist_w787114469.m3u8|User-agent=iPhone
 
-
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",FM HOT CHILE PELIS 
-http://edge1.cl.grupoz.cl/fmhot/smil:live.smil/chunklist_w1050825560_b1500000_slesp.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",wooooooo
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w644334483.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",rcn hd
-https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8?tecnotv.info?.m3u
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",RCN agent
-https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
-
-
-
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",vtv VINA
-http://cdn.streamingmedia.cl:1935/live/vtvvina/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS", VTV VINA AGENT
-http://cdn.streamingmedia.cl:1935/live/vtvvina/playlist.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",VTV 2
-http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8|User-Agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS", ATV | SD
 http://dqsz3cincv704.cloudfront.net/pe/smil:canal_atv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Atv
-http://dqsz3cincv704.cloudfront.net/pe/smil:canal_atv.smil/chunklist_b1155072.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",ATV+
 http://bit.do/Pe-Tvninjaxd-10?Live.tv.m3u8
 
 
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Americatv
-http://prepublish.f.qaotic.net/epa/ngrp:americatvlive-100056_all/chunklist_b596000.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 4.3; Nexus 7 Build/JSS15Q)
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",TELEFE
-http://us.watcha.live/ch6/hi.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:51.0)+Gecko/20100101+Firefox/51.0&mode=12
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",ELTRECETV
 http://prepublish.f.qaotic.net/a03/ngrp:el13_live01-100083_all/chunklist_b1459000.m3u8|User-Agent=ArtearPlayer/3.2.42 (Linux;Android 4.4.2) ExoPlayerLib/1.5.9
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",CN5 CINEAR
@@ -272,12 +77,6 @@ rtmp://canal9riocuartotv.com.ar:1935/canal9riocuarto/canal9riocuartotv
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 
 
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Telesur480
-http://cdna.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Telesur360
-http://cdna.telesur.ultrabase.net/mbliveMain/360p/chunklist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",Telesur AR
-http://cdna.telesur.ultrabase.net/mbliveMain/ngrp:mblive_all/playlist.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",TV MARTI
 http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/index_0540_av-b.m3u8?sd=10&rebase=on
 
@@ -298,9 +97,6 @@ http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",CDF
 http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w822432298.m3u8
 
-
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", LIFE TV
-http://178.132.6.97/uzivo/lifetvesp/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", Divinity
 https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",divinity
@@ -310,28 +106,13 @@ https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_1.m3u8
 https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_1.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", FDF
 https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",M20 musica
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",bemad
 https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",bemad b2
 https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_2.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0
 
-
-
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",Azteca Uno
-http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",Azteca+Plus
-http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_3_av-p.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",Azteca 13
-http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_1_av-p.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36
-
-
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",azteca 1 america
-http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_2_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",azteca 1 Master
-http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
-
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",M20 musica
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",rusia today
@@ -339,8 +120,10 @@ https://secure-streams.akamaized.net/rt-esp/index.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",toplatino
 http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w430979689.m3u8
 
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",Deportv
-http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?
+
+
+
+
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",Real Madrid TV MASTER
