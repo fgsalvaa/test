@@ -149,6 +149,12 @@ http://168.227.22.18:1935/live/eior48nr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",CANAL 23 TVX EL SALVADOR
 http://cdn.elsalvadordigital.com:1935/canal23/canal23/chunklist_w1934239224.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",CANAL 23 TVX EL SALVADOR
+https://59dc4c699f574.streamlock.net/canal23/canal23/chunklist_w2070121381.m3u8
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",CANAL 25 ORBITATV EL SALVADOR
+https://5ab29cc78f681.streamlock.net/orbitatv1/livestream/chunklist_w373229235.m3u8
+
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",CANAL WOWTV EL SALVADOR
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 2 Nicaragua
@@ -157,42 +163,9 @@ http://162.244.81.181:1935/live//Stream1/playlist.m3u8
 http://d3no10dikm8m8e.cloudfront.net/gt/smil:canal_3.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",CANAL 3 DE GUATEMALA AndroidTv
 http://d3no10dikm8m8e.cloudfront.net/gt/smil:canal_3.smil/chunklist_b1155072.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",USAC TV GUATEMALA AndroidTv
-http://streamingcws10.com:1935/tvusac/smil:tvusac.smil/chunklist_w964737025_b978000_slENG.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",TN 23 GUATEMALA AndroidTv
 http://d3no10dikm8m8e.cloudfront.net/gt/smil:canal_23.smil/chunklist_b1155072.m3u8
 
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",R.P.C SD
-http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live/rpc-live/streamout-360p/chunks.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",R.P.C 480
-http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live//rpc-live/streamout-480p/chunks.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",R.P.C 720
-http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live/rpc-live/streamout-720p/chunks.m3u8
-
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="EL SALVADOR",	TelemetroHD
-http://cdnlive.medcom.com.pa/medcom-livestream/tm-live/tm-live/streamout-720p/chunks.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="EL SALVADOR",	Telemetro SD
-http://cdnlive.medcom.com.pa/medcom-livestream/tm-live/tm-live/streamout-360p/chunks.m3u8
-
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="EL SALVADOR",Cable Onda Sport
-http://cdnlive.medcom.com.pa/medcom-livestream/cos-live/cos-live/streamout-480p/chunks.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="EL SALVADOR",Cable Onda Fc
-http://cdnlive.medcom.com.pa/medcom-livestream/cosfc-live/cosfc-live/streamout-480p/chunks.m3u8
-
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="EL SALVADOR",Canal 13 CHILE
-http://13.live.cdnz.cl/13hddesktop/13hd-desktop.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="EL SALVADOR",Canal 13 CHILE
-http://csm-e.yospace.13.cl/csm/extlive/canal13cl01,CH13M.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="EL SALVADOR",Canal 13 CHILE
-http://csm-e-ces1saexaws101j8-661hgz2zvhzy.yospace.13.cl/csm/live/108031140/2.m3u8Id=CH13M
-
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="EL SALVADOR",Canal de las estrellas
-http://0nlym3x-lh.akamaihd.net/i/c4nst02_1@175273/master.m3u8|X-Forwarded-For=148.201.0.0
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="EL SALVADOR",UnivisionDeportes
-https://nludnoo.akamaized.net/nlds/univision/as/live/udnoo_hd_4500_ipad.m3u8
-
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",COLOSAL Cr
-rtmp://k3.usastreams.com:1935/colosaltv1/colosaltv1
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="EL SALVADOR",TICAVISION
 http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 #EXTINF:0, Ticavision 52 AGENTE
@@ -205,44 +178,23 @@ http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8|User-Agent=Mozilla/5.0 (Ma
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="EL SALVADOR",NEX TV
 http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="EL SALVADOR",	NIU (f.o.x)
-http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",canal4 FOXHBOTNT
-http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w437571733.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Nextv | SD
+http://198.1.117.5:1935/live/livestream/master.m3u8
 
 
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Super 5
-http://k4.usastreams.com/superC/superC_1/chunklist_w27246718.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",TELEMUNDO HD
-http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8?JoCaRoIPTV.m3u8
-
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Univision deportes 
-https://nludnoo.akamaized.net/nlds/univision/as/live/udnoo_hd_4500_ipad.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 4 azteca
 http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Televisiete
 http://d3no10dikm8m8e.cloudfront.net/gt/smil:canal_7.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",TeleRed
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",TeleRed Telesistema
 http://k4.usastreams.com/Telesistemas/Telesistemas/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Campus HD
 http://st2.worldkast.com/8004/8004/chunklist_w1315793139.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Ten HD
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Oye Tv HD
-http://cdnlive.medcom.com.pa/medcom-livestream/oyetv-live/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Colosal TV
-http://k3.usastreams.com:1935/colosaltv1/colosaltv1/playlist.m3u8?JoCaRoIPTV.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", ECO | HD
 http://cdnlive.medcom.com.pa/medcom-livestream/eco-live/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Nextv | SD
-http://198.1.117.5:1935/live/livestream/master.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",TVN PANAMA
-https://cflive.live-delivery.ooyala.com/out/u/ezye7lz7hql35/107829/toaWp2YTE6Hpzo8bu4cDFPiloPhk9oIC/cn/342e43a0bc384c2f8f81652fa15f3949_1.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",SER TV PANAMA
-http://162.213.123.181:1935/sertv/live/chunklist_w207424797.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR", Ser TV | SD
-http://162.213.123.181:1935/sertv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Televicentro tsi (Hond)
 https://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/master.m3u8|User-Agent=Mozilla/5.0
@@ -252,16 +204,12 @@ http://174.138.118.252/live/canal13stream.m3u8|User-Agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",Canal 26hd arg HD
 http://live-edge01.telecentro.net.ar:1935/live/26hd-720/livestream.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",Canal 26hd arg360 
-http://live-edge01.telecentro.net.ar:1935/live/chd-360/livestream.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",Canal 26 cmaster agent
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",Canal 26 sleng agent
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w999965802_b2628000_sleng.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Canal 26 Playlist
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Canal 26 Playlist chd-360
-http://live-edge01.telecentro.net.ar/live/chd-360/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="COSTARICA",SMO TV  Costa Rica (ferrer)
