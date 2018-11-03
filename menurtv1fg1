@@ -62,6 +62,9 @@ http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/index_0540_av-b.m3u8?sd=10&re
 
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",CNN CHILE
 http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",DW LATINO (fg_tb)
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8
+
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",DW ESPAÑA
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-b.m3u8?sd=10&rebase=on
 
@@ -306,30 +309,19 @@ http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	TC Mi Canal
 http://elcanaldelfutbol.com/static/wowza/test/hls/10001/480p/playlist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	TELE MUSICA
-http://186.155.200.118:1935/live/telemusica/playlist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	TELEMICRO 5 musica
-http://api.new.livestream.com/accounts/736348/events/5552503/live.m3u8
+
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	TN 23 televisiete
 http://d3no10dikm8m8e.cloudfront.net/gt/smil:canal_23.smil/chunklist_b1155072.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	TV PERU
 http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	TV PERU 7.3
 https://cdnh15.iblups.com/hls/RMuwrdk7M9.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	TV UNAM
-http://api.new.livestream.com/accounts/12380647/events/3843134/live.m3u8
 
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	TvMAS HD
 http://50.7.98.234:1935/rtv/videortv/playlist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	Teleuniverso RDOCANA
-http://ss9.domint.net:1942/tu_str/universo/chunklist_w501782081.m3u8
 
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	TV Uno CostaRica
 http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	8TVEspaña
-http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1058883651.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	RtvceEspaña cataluña
-http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	MEGA TV P**
@@ -344,50 +336,38 @@ http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	CULTURA24 TV P
 http://vs8.live.opencaster.com/cultura24/_definst_/mp4:cultura24_480/playlist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	CENTRAL P
-http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	VIA TELEVISIÓN P
 http://wse8.player.tv.br:1935/viatv/viatv/playlist.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	ANTARES TV P
 http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	PACÍFICOTV P
-http://cdn2.ujjina.com:1935/iptvpacifico/livepacificotv/playlist.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	RBC P
 http://184.154.28.210:1935/rbc-tv/rbc-tv/playlist.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	TOPLATINO TV P musica
 http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	CAPITALTV P
-http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoCAPTV/_definst_/live/stream1.m3u8
 
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	TelpinTVCanal 2ARG
 http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	Canal4 Jujuy AR
-http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	Canal4 AR
-http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w437571733.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",canal4 AR TNT HD
-http://streaming.wirenetserver.com.ar:1935/canal4/live_1/livestream.m3u8
+
+
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	Canal 9 Salta AR
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	Canal26 720hd AR
 http://200.115.193.177/live/26hd-720/.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	TLX AR
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",Tv COTUI MUSICA
-http://ss1.domint.net:2204/tvc_str/tvcotui/chunklist_w1655857383.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	Power HD MUSICA!!!
 http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	MusicTop MUSICA!!!
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	Cool103.7 MUSICA!!!ARG
-http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	TLT VENE
-http://enc-fwt.lorini.net/telet/telet/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	LaSemana VENE
 http://wceatv1.srfms.com:2177/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	Canal Judicial
 http://dl-scjn.scjn.gob.mx/scjn/scjn.mp4/playlist.m3u8
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	ABC NEWS INGLES
 http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
