@@ -3,17 +3,10 @@
 http://www.metafilegenerator.de:80/DWelle/tv-latinoamerica/ios/master.m3u8
 
  
-
 #EXTINF:-1,AMERICA TV ARG
 http://prepublish.f.qaotic.net/a07/ngrp:americahls-100056_all/Playlist.m3u8|user-agent=iPhone
 #EXTINF:-1,TYC SPORTS
 http://200.89.190.163:80/live/live/TyCSportHD/SA_Live/TyCSportHD.m3u8
-
-
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Azteca 7
-http://aztecalive-lh.akamaihd.net/i/0pq46e6vw_1@502477/index_3_av-b.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Azteca 7
-http://aztecalive-lh.akamaihd.net/i/0pq46e6vw_1@502477/master.m3u8
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Canal 4 azteca
 http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
@@ -22,10 +15,9 @@ https://nludnoo.akamaized.net/nlds/univision/as/live/udnoo_hd_4500_ipad.m3u8
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Chilevision
 http://chv.movil.rtsp.ztreaming.com/chvmovil2/chilevision@140569/chunklist_w787114469.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Todo DEPORTES 
-http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Chilevision(Chi) AGENT IPHON
 http://chv.movil.rtsp.ztreaming.com/chvmovil2/chilevision@140569/chunklist_w787114469.m3u8|User-agent=iPhone
+
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",wooooooo
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w644334483.m3u8
@@ -35,46 +27,34 @@ http://dqsz3cincv704.cloudfront.net/pe/smil:canal_atv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",ATV+
 http://bit.do/Pe-Tvninjaxd-10?Live.tv.m3u8
 
-
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",ELTRECETV
-http://prepublish.f.qaotic.net/a03/ngrp:el13_live01-100083_all/chunklist_b1459000.m3u8|User-Agent=ArtearPlayer/3.2.42 (Linux;Android 4.4.2) ExoPlayerLib/1.5.9
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",CN5 CINEAR
-http://us.watcha.live/ch17/hi.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:51.0)+Gecko/20100101+Firefox/51.0&mode=12
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",ELGARAGETV
-http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w1733745291_b798000_slspa.m3u8|User-Agent=ArtearPlayer/3.2.42 (Linux;Android 4.4.2) ExoPlayerLib/1.5.9
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Canal2seis
 http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Canal2 sd
 http://201.219.100.30:1935/telpintv/ttv.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",teteti
-http://us.watcha.live/ch16/hi.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:51.0)+Gecko/20100101+Firefox/51.0&mode=12
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",pakapaka
-http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
+
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",TLX
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",toplatino
 http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w430979689.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",toplatino
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w430979689.m3u8
+
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",MUSICTOP
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",MUSIC POWER
 http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8?tecnotv.info?.m3u
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",MUSIC GENESIS
 https://589ff3c36f7e8.streamlock.net/genesishd/genesishd/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",M20 musica
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Canal9arg
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Canal2 cordoba
-http://arcast.tv:1935/envivo/marcos/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Canal3 cn3 Pinamar Bs 
 http://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Canal5 san juan
 http://www.coninfo.net:1935/tvcinco/live2/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Canal5 rios
-http://panel.dattalive.com:1935/8044/8044/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Canal9 riocuarto
-rtmp://canal9riocuartotv.com.ar:1935/canal9riocuarto/canal9riocuartotv
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Animation
-http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 
 
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",TV MARTI
@@ -82,14 +62,8 @@ http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/index_0540_av-b.m3u8?sd=10&re
 
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",CNN CHILE
 http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",DW Latinoamericaaa
-http://www.metafilegenerator.de:80/DWelle/tv-latinoamerica/ios/master.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",DW ESPAÑA
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",DW  AR
-http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/index_1_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",DW US
-http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/index_1_av-b.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="DEPORTES",DeporTV Argentina
 http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
@@ -111,14 +85,9 @@ https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8|User-Age
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",bemad b2
 https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_2.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0
 
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",M20 musica
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
-
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",rusia today
 https://secure-streams.akamaized.net/rt-esp/index.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",toplatino
-http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w430979689.m3u8
 
 
 
@@ -143,11 +112,41 @@ rtmp://198.24.135.42:80/canal10/canal10
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",canal 11 EL SALVADOR
 http://198.24.135.42:80/canal11/canal11/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 12
-http://d1clhs11e3tzzj.cloudfront.net/sv/smil:canal12.smil/chunklist_b981072.m3u8
+http://d1clhs11e3tzzj.cloudfront.net/sv/smil:canal12.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 12
+http://d1clhs11e3tzzj.cloudfront.net/sv/smil:canal12.smil/chunklist_b489472.m3u8
+
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 17
-http://streamingcontrol.com:1935/tbbcentral/l1v1.sdp/playlist.m3u8
+https://59802217c6db4.streamlock.net/tabertv/videotabertv/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 17
+https://59802217c6db4.streamlock.net/tabertv/videotabertv/chunklist_w354832959.m3u8
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 19
+https://uvodscp-lh.akamaihd.net/i/mgvc19rtmp_1@460436/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 19
+https://uvodscp-lh.akamaihd.net/i/mgvc19rtmp_1@460436/index_1000_av-p.m3u8?sd=10&rebase=on
+
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 21
+http://uvodscp-lh.akamaihd.net/i/mgvc21rtmp_1@460432/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 21
+http://uvodscp-lh.akamaihd.net/i/mgvc21rtmp_1@460432/index_1000_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal trv megavision
+http://uvodscp-lh.akamaihd.net/i/mgvtrvrtmp_1@460456/master.m3u8
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal trv megavision
+http://uvodscp-lh.akamaihd.net/i/mgvtrvrtmp_1@460456/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal trv megavision
+http://uvodscp-lh.akamaihd.net/i/mgvtrvrtmp_1@460456/index_1000_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal tvs 20 SONSONATE
+http://uvodscp-lh.akamaihd.net/i/mgvc20rtmp_1@460428/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal tvs 20 SONSONATE
+http://uvodscp-lh.akamaihd.net/i/mgvc20rtmp_1@460428/index_1000_av-p.m3u8?sd=10&rebase=on
+
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",CANAL 23 TVO EL SALVADOR
-http://xtvocanal23x.api.channel.livestream.com/3.0/playlist.m3u8
+http://168.227.22.18:1935/live/eior48nr/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",CANAL 23 TVX EL SALVADOR
 http://cdn.elsalvadordigital.com:1935/canal23/canal23/chunklist_w1934239224.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",CANAL WOWTV EL SALVADOR
