@@ -212,18 +212,8 @@ http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w999965802_b26
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COSTARICA",SMO TV  Costa Rica (ferrer)
-rtmp://199.217.118.90:1935/smotv/stream
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="COSTARICA",Tele Uno TV - Costa Rica (ferrer)
 rtmp://k3.usastreams.com:1935/tvuno1/tvuno1
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COSTARICA",TV SUR CR CANAL9 (ferrer)
-http://k3.usastreams.com:1935/tvsur1/tvsur1/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="COSTARICA",azteca hondu  (ferrer)
-http://aztecalive-lh.akamaihd.net/i/142kvpq0l_1@67741/master.m3u8
-
-
-#EXTINF:-0 tvg-logo="samplelogo.png" group-title="SURAMERICA",Viajar Argentina (ferrer)
-http://eventshd-lh.akamaihd.net/i/viajar_1@168433/master.m3u8
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Miami TV
 http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
@@ -252,8 +242,7 @@ http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/master.m3u8
 http://aztecalive-lh.akamaihd.net/i/0qfv8evsp_1@458764/master.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="MEXICO",[COLOR green]Azteca[/COLOR] [COLOR whithe]+Plus[/COLOR][COLOR red]Ferrer[/COLOR]
 http://aztecalive-lh.akamaihd.net/i/0qfv8evsp_1@458764/index_3_av-p.m3u8
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="MEXICO",[COLOR green]Foro[/COLOR] [COLOR whithe]TV[/COLOR][COLOR red]Ferrer[/COLOR]
-http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
+
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="MEXICO",[COLOR green]Efekto[/COLOR] [COLOR whithe]TV SD[/COLOR][COLOR red]Ferrer[/COLOR]
 http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/index_3_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="MEXICO",[COLOR green]Efekto[/COLOR] [COLOR whithe]TV HD[/COLOR][COLOR red]Ferrer[/COLOR]
@@ -271,8 +260,6 @@ http://aztecalive-lh.akamaihd.net/i/0qfv8evsp_1@458764/master.m3u8
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO",[COLOR green]TVmas[/COLOR] [COLOR whithe]Mexico[/COLOR][COLOR red]Ferrer[/COLOR]
 rtmp://50.7.98.234/rtv/videortv
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO",[COLOR green]Forotv[/COLOR] [COLOR whithe]Mexico[/COLOR][COLOR red]Ferrer[/COLOR]
-http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO",[COLOR green]MultimedioLaguna[/COLOR] [COLOR whithe]Mexico[/COLOR][COLOR red]Ferrer[/COLOR]
 http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8?
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO",[COLOR green]MultimedioMonterrey[/COLOR] [COLOR whithe]Mexico[/COLOR][COLOR red]Ferrer[/COLOR]
@@ -280,8 +267,6 @@ http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8?
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO",[COLOR green]TVmas Veracruz[/COLOR] [COLOR whithe]Mexico[/COLOR][COLOR red]Ferrer[/COLOR]
 http://50.7.98.234:1935/rtv/videortv//playlist.m3u8
 
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO",[COLOR green]TV Tlaxcala[/COLOR] [COLOR whithe]Mexico[/COLOR][COLOR red]Ferrer[/COLOR]
-http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO",[COLOR green]TV Guerrero[/COLOR] [COLOR whithe]Mexico[/COLOR][COLOR red]Ferrer[/COLOR]
 http://50.7.98.234:1935/5936soyguerrero/guerrerovideo/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO",[COLOR green]Telemar Capeche[/COLOR] [COLOR whithe]Mexico[/COLOR][COLOR red]Ferrer[/COLOR]
@@ -296,8 +281,6 @@ http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO",[COLOR green]RGTV2[/COLOR] [COLOR whithe]Mexico[/COLOR][COLOR red]Ferrer[/COLOR]
 http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO",[COLOR green]MVS NOTI[/COLOR] [COLOR whithe]Mexico[/COLOR][COLOR red]Ferrer[/COLOR]
-http://wos1.smartcast.com.mx:1935/mvs/mvs_radio/mvs_radio.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO",[COLOR green]TV UNO[/COLOR] [COLOR whithe]Mexico[/COLOR][COLOR red]Ferrer[/COLOR]
 http://ooyalahd2-f.akamaihd.net/i/UnoTV02_delivery@122617/master.m3u8
 
@@ -306,11 +289,17 @@ http://ooyalahd2-f.akamaihd.net/i/UnoTV02_delivery@122617/master.m3u8
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	Canal 9 Salta
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	Canal 1 webtv
+http://server4.stweb.tv/unlam/ngrp:video1_all/playlist.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	Canal 3 pinamar
+http://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	Canal 5 telesol
+http://149.56.98.124:9090/hls/telesol.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	Canal 10 salta
+http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	Canal Capital
 http://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8?&dnt=true
-
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	VISUAL RADIO
-http://wms.shared.streamshow.it/visualradio/visualradio_mobile/playlist.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	La Mega Mundial musica
 http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",	PortalFoxMix Tv music
