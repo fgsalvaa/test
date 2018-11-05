@@ -132,6 +132,17 @@ http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0700_av-p.m3u8?sd=1
 http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-p.m3u8?sd=10&amp;rebase=on
 
 
+
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 4 El salvador
+https://p05.quest123.top:8088/live/tv5037/playlist.m3u8?id=100460&pk=a959443f0acb44e8977734c1f00f025bc54a7a6e045be6b659b7da99e1f96bdb
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 4 El salvador
+https://p05.quest123.top:8088/live/tv5037/playlist.m3u8?id=100460&wowzasessionid=3933892713&pk=a959443f0acb44e8977734c1f00f025bc54a7a6e045be6b659b7da99e1f96bdb
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 8 El salvador
+http://dciptv.net:47999/live/agape/Tq3zd3mzGS/11904.m3u8
+
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 10 El salvador
 rtmp://198.24.135.42:80/canal10/canal10
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",canal 11 EL SALVADOR
