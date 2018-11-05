@@ -456,5 +456,6 @@ https://webapi.streann.com/streaming/player.html?U2FsdGVkX1+3eae5jeQXgEQPDcGbIak
 #EXTINF:-1,AMERICA TV ARG
 https://webapi.streann.com/streaming/player.html?U2FsdGVkX1+3eae5jeQXgEQPDcGbIakZV95CtVD0P4JWN98xvR6p3CW8wLFyeMv8QYWE/Bh2bdnZ6ML7fU93PL1N11zdbGNFWzKxkhNhBrJRjN+IpxdP8EOgtvIo84VAYMtWjoWk+rT2p9xQSOFKc6P9KitCv4kmIBsIwUPLVRblRLkc86u8BQtTdTxJK4zdOXB5zgwW60/q+FLTdcIfIwaPEOTNGGRUzlldcuSCnwibrVuMM1RIe/SYI4SCBlB1+zUO8YRTJflqYt29kUOLag==
 
-
+#EXTINF:-1,CANAL 4 - El salvador
+https://streannlive-lh.akamaihd.net/i/canal2_1@449284/index_3_av-p.m3u8?sd=10&dw=3600&set-segment-duration=smoothest&rebase=on&hdntl=exp=1533255151~acl=%2f*~data=hdntl~hmac=25112bc68320bbd3f6f7ff44bd21149944d7d0d52c2b61329d5362040abbff17
 
