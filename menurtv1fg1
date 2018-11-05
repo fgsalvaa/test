@@ -438,22 +438,23 @@ https://dcunilive30-lh.akamaihd.net/i/dclive_1@535231/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Canal_IPe_Logo_PNG.png" group-title="Infantiles", IPE
 http://cdnh4.iblups.com/hls/irtp.m3u8
 
+#EXTINF:-1,AMERICA TV ARG
+https://streannlive-lh.akamaihd.net/i/canal2_1@449284/master.m3u8?
+#EXTINF:-1,AMERICA TV ARG
+https://streannlive-lh.akamaihd.net/i/canal2_1@449284/index_1_av-p.m3u8
+#EXTINF:-1,AMERICA TV ARG
+https://streannlive-lh.akamaihd.net/i/canal2_1@449284/index_2_av-p.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/TbJa96g.png" group-title="DEPORTES",NUEVO111
-https://webapi.streann.com/37981310-b291-4b22-bd91-e908623db61c
-#EXTINF:-1 tvg-logo="http://i.imgur.com/TbJa96g.png" group-title="DEPORTES",NUEVO111
-https://webapi.streann.com/streaming/player.html?U2FsdGVkX1+5MX4XP/1L8sLwEMXeKjnuk7GCTpG5CuDA9aX9MI19Ob82gU4AyiK72L29l7TD9Td0xATkM5tG7BCAFKMVJnPdcI01Ot+SKjcc14KK4c0wBPEZI60EtnC8exU24mLCOt4uLsXnxyR3FCAPEVqEXbj4O2a7BhbG88EWi9kSq+n6zF0QnD6tjbgsAszFU5PtfMyZIwreauk7gQjPhqGsgwbuhQpzZ1zmv7IljtX/sMNwjjrPgWDKS4VRLwo8V4LFKfIIZ5/M0xG56Q==
-#EXTINF:-1 tvg-logo="http://i.imgur.com/TbJa96g.png" group-title="DEPORTES",NUEVO111
-https://webapi.streann.com/e9683307-ebd6-4ee9-be48-6b905050a022
-#EXTINF:-1 tvg-logo="http://i.imgur.com/TbJa96g.png" group-title="DEPORTES",NUEVO111
-https://streannlive-lh.akamaihd.net/i/canal2_1@449284/index_2_av-p.m3u8?sd=10&dw=3600&set-segment-duration=smoothest&rebase=on&
-#EXTINF:-1 tvg-logo="http://i.imgur.com/TbJa96g.png" group-title="DEPORTES",NUEVO111 A
-https://streannlive-lh.akamaihd.net/i/canal2_1@449284/index_2_av-p.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
-#EXTINF:-1 tvg-logo="http://i.imgur.com/TbJa96g.png" group-title="DEPORTES",NUEVO111
-
-https://webapi.streann.com/streaming/player.html?U2FsdGVkX1+5MX4XP/1L8sLwEMXeKjnuk7GCTpG5CuDA9aX9MI19Ob82gU4AyiK72L29l7TD9Td0xATkM5tG7BCAFKMVJnPdcI01Ot+SKjcc14KK4c0wBPEZI60EtnC8exU24mLCOt4uLsXnxyR3FCAPEVqEXbj4O2a7BhbG88EWi9kSq+n6zF0QnD6tjbgsAszFU5PtfMyZIwreauk7gQjPhqGsgwbuhQpzZ1zmv7IljtX/sMNwjjrPgWDKS4VRLwo8V4LFKfIIZ5/M0xG56Q==
+#EXTINF:-1,AMERICA TV ARG
+https://streannlive-lh.akamaihd.net/i/canal2_1@449284/master.m3u8?customtoken=998004f0-2454-4072-bfe3-63ba8ddcb335&hdnts=ip=179.5.233.218~exp=1541450521~acl=*~hmac=3bdb4601e2bcb401762ab810893d357ad64da5eb9d76f65319588e4a07177b5c&AkamaiAnalytics_debug=1&sd=6&set-segment-duration=smoothest&dw=3600&resellerId=587d47362cdc9d676c706940
+#EXTINF:-1,AMERICA TV ARG
+https://streannlive-lh.akamaihd.net/i/canal2_1@449284/index_1_av-p.m3u8?sd=10&dw=3600&set-segment-duration=smoothest&rebase=on&hdntl=exp=1541536916~acl=*~data=hdntl~hmac=f5a41c1a1db94cb5f2197d0450ecafebf8f31643df07c540237b3509d59f71f6
+#EXTINF:-1,AMERICA TV ARG
+https://streannlive-lh.akamaihd.net/i/canal2_1@449284/index_1_av-p.m3u8?sd=10&dw=3600&set-segment-duration=smoothest&rebase=on&hdntl=exp=1541536916~acl=*~data=hdntl~hmac=f5a41c1a1db94cb5f2197d0450ecafebf8f31643df07c540237b3509d59f71f6
+#EXTINF:-1,AMERICA TV ARG
+https://webapi.streann.com/streaming/player.html?U2FsdGVkX1+3eae5jeQXgEQPDcGbIakZV95CtVD0P4JWN98xvR6p3CW8wLFyeMv8QYWE/Bh2bdnZ6ML7fU93PL1N11zdbGNFWzKxkhNhBrJRjN+IpxdP8EOgtvIo84VAYMtWjoWk+rT2p9xQSOFKc6P9KitCv4kmIBsIwUPLVRblRLkc86u8BQtTdTxJK4zdOXB5zgwW60/q+FLTdcIfIwaPEOTNGGRUzlldcuSCnwibrVuMM1RIe/SYI4SCBlB1+zUO8YRTJflqYt29kUOLag==
+#EXTINF:-1,AMERICA TV ARG
+https://webapi.streann.com/streaming/player.html?U2FsdGVkX1+3eae5jeQXgEQPDcGbIakZV95CtVD0P4JWN98xvR6p3CW8wLFyeMv8QYWE/Bh2bdnZ6ML7fU93PL1N11zdbGNFWzKxkhNhBrJRjN+IpxdP8EOgtvIo84VAYMtWjoWk+rT2p9xQSOFKc6P9KitCv4kmIBsIwUPLVRblRLkc86u8BQtTdTxJK4zdOXB5zgwW60/q+FLTdcIfIwaPEOTNGGRUzlldcuSCnwibrVuMM1RIe/SYI4SCBlB1+zUO8YRTJflqYt29kUOLag==
 
 
 
