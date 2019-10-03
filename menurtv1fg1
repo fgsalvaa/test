@@ -98,31 +98,22 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 2 Nicaragua
 http://162.244.81.181:1935/live//Stream1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",ChapinTv 3
-http://d3no10dikm8m8e.cloudfront.net/gt/smil:canal_3.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",CANAL 3 DE GUATEMALA AndroidTv
-http://d3no10dikm8m8e.cloudfront.net/gt/smil:canal_3.smil/chunklist_b1155072.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",TN 23 GUATEMALA AndroidTv
-http://d3no10dikm8m8e.cloudfront.net/gt/smil:canal_23.smil/chunklist_b1155072.m3u8
 
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="EL SALVADOR",TICAVISION
 http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
-#EXTINF:0, Ticavision 52 AGENTE
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="EL SALVADOR",TICAVISION agente
 http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
 
 
 
 
-#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="EL SALVADOR",	BHTV
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="EL SALVADOR",BHTV
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1 tvg-logo=“samplelogo.png” group-title="EL SALVADOR",NEX TV
 http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Nextv | SD
 http://198.1.117.5:1935/live/livestream/master.m3u8
 
-
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Canal 4 azteca
-http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Televisiete
 http://d3no10dikm8m8e.cloudfront.net/gt/smil:canal_7.smil/playlist.m3u8
