@@ -3,51 +3,15 @@
 http://www.metafilegenerator.de:80/DWelle/tv-latinoamerica/ios/master.m3u8
 
  
-#EXTINF:-1,AMERICA TV ARG
-http://prepublish.f.qaotic.net/a07/ngrp:americahls-100056_all/Playlist.m3u8|user-agent=iPhone
-#EXTINF:-1,TYC SPORTS
-http://200.89.190.163:80/live/live/TyCSportHD/SA_Live/TyCSportHD.m3u8
-
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Canal 4 azteca
-http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Univision deportes 
-https://nludnoo.akamaized.net/nlds/univision/as/live/udnoo_hd_4500_ipad.m3u8
-
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Chilevision
-http://chv.movil.rtsp.ztreaming.com/chvmovil2/chilevision@140569/chunklist_w787114469.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Chilevision(Chi) AGENT IPHON
-http://chv.movil.rtsp.ztreaming.com/chvmovil2/chilevision@140569/chunklist_w787114469.m3u8|User-agent=iPhone
-
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",wooooooo
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w644334483.m3u8
 
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS", ATV | SD
-http://dqsz3cincv704.cloudfront.net/pe/smil:canal_atv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",ATV+
-http://bit.do/Pe-Tvninjaxd-10?Live.tv.m3u8
-
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Canal2seis
-http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Canal2 sd
-http://201.219.100.30:1935/telpintv/ttv.stream_360p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",TLX
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",toplatino
 http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w430979689.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",toplatino
 http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w430979689.m3u8
-
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",MUSICTOP
-http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",MUSIC POWER
-http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8?tecnotv.info?.m3u
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",MUSIC GENESIS
-https://589ff3c36f7e8.streamlock.net/genesishd/genesishd/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",M20 musica
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Canal9arg
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
