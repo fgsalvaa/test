@@ -2,7 +2,73 @@
 #EXTINF:-1,[COLOR gold] F[/COLOR][COLOR red] E[/COLOR][COLOR gold] R[/COLOR][COLOR gold] R[/COLOR][COLOR red] E[/COLOR][COLOR gold] R[COLOR blue]LIST [/COLOR][COLOR gold] !!!![/COLOR]
 http://www.metafilegenerator.de:80/DWelle/tv-latinoamerica/ios/master.m3u8
 
- 
+ ******************************
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER2", RCN hd
+https://rcnhd.cdn.net.co/live01/rcnhd.m3u8
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER2", rcnhd720
+https://rcnhd.cdn.net.co/live01/rcnhd_720p.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER2", rcnhd 480p
+https://rcnhd.cdn.net.co/live01/rcnhd_480p.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER2",rpc paraguay
+http://174.138.118.252/live/canal13stream_low.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="FERRER2",Rpc paraguay HD
+http://174.138.118.252/live/canal13stream.m3u8|User-Agent=Mozilla/5.0
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER2",TLT VENE
+https://laputadetumadrextremostereo.lateletuya.com/servicio14/servicio14/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER2",TLx
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",VTV 2 AGENTE
+http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8|User-Agent=Mozilla/5.0
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER2",chile umagtv
+http://edge1.cl.grupoz.cl/tser5/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER2",UCR
+http://163.178.170.181:1935/envivo/envivo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER1",SER TV PANAMA
+https://accionastream.com/live/sertv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER2",telesur costarica
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",CANAL26 argentina 26hd-480
+http://200.115.193.177/live/26hd-480/.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",CANAL26 argentina 26hd-480 agente
+http://200.115.193.177/live/26hd-480/.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Canal26 360 A 
+http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",Canal 26hd arg HD
+http://live-edge01.telecentro.net.ar:1935/live/26hd-720/livestream.m3u8
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",Canal 26 cmaster agent
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+#EXTINF:-1 tvg-logo=“samplelogo.png” group-title="NUEVOS",Canal 26 sleng agent
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w999965802_b2628000_sleng.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Canal 26 720 Playlist
+http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",Canal5 san juan
+http://www.coninfo.net:1935/tvcinco/live2/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3",hbo2 dual 
+http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3",HBO 2 
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3", HBO 2 International 
+http://161.0.157.6/PLTV/88888888/224/3221227026/03.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3", MAXPRIME
+http://161.0.157.5/PLTV/88888888/224/3221226834/index.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3", Net TV argentina
+http://unlimited2-us.dps.live/nettv/nettv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",CANAL TVM EL SALVADOR
+http://168.227.22.18:1935/tvm/tvm.stream/playlist.m3u8
+
+ *******************************
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",wooooooo
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w644334483.m3u8
@@ -39,14 +105,38 @@ https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",divinity
 https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_1.m3u8
 
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA", divinity b2
+https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_2.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA", divinity b1
+https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_1.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA", Divinity bfour
+https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA",ENERGY b2
+https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_2.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA",ENERGY 4
+https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",fdf
 https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_1.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg", FDF
 https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA",fdf bitrate_1
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_1.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA",fdf bitrate_2
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_2.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA",fdf bitrate_4
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
+
+
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",bemad
 https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",bemad b2
 https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_2.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0
+
 
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",la uno master
@@ -64,6 +154,8 @@ https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_3.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",bemad bitrate_4
 https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0
 
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA",BOING (fg_tb)
+https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_2.m3u8
 
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="fg",Real Madrid TV
@@ -74,7 +166,28 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",REAL rmtv wev
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA",Antena 3 HD www.m3ugratis.com
+https://livestartover.atresmedia.com/antena3/master.m3u8
 
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA", Cuatro b2 www.m3ugratis.com
+https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_2.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA", Cuatro HD www.m3ugratis.com
+https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA", Telecinco www.m3ugratis.com
+https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_2.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA", Telecinco HD www.m3ugratis.com
+https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA",laSexta HD www.m3ugratis.com
+https://livestartover.atresmedia.com/lasexta/master.m3u8
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA",mtmad
+https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA",paramountlive
+https://paramount-live.flumotion.com/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA",TVE 24H (fg_tb)
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8
 
 
 
@@ -117,6 +230,8 @@ http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
 http://198.1.117.5:1935/live/livestream/master.m3u8
 
 
+
+
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",TeleRed Telesistema
 http://k4.usastreams.com/Telesistemas/Telesistemas/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Campus HD
@@ -124,8 +239,13 @@ http://st2.worldkast.com/8004/8004/chunklist_w1315793139.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Ten HD
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
 
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Televicentro tsi (Hond) AGENTE
+https://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/master.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Televicentro tsi (Hond)
 https://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/master.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Televicentro tsi (Hond)
+https://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/master.m3u8
+
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",Rpc(Par)
 http://174.138.118.252/live/canal13stream.m3u8|User-Agent=Mozilla/5.0
 
