@@ -11,6 +11,9 @@ http://23.237.22.207:8000/tvonlinehd/14_.m3u8?md5=oEqYqvdTrwdLbZZSTRy4Og&expires
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER2",fox cablehd.php?id=30
 http://23.237.22.207:8000/tvonlinehd/30_.m3u8?md5=8dIWzAJQ4PIX1sexHYg2Hg&expires=1570184695
 
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER2",space cablehd.php?id=42
+http://23.237.22.207:8000/tvonlinehd/42_.m3u8?md5=iyx8Kgu1Qf15dxk3FEbnsA&expires=1570185392
+
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER2", RCN hd
 https://rcnhd.cdn.net.co/live01/rcnhd.m3u8
 
