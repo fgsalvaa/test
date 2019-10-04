@@ -3,6 +3,14 @@
 http://www.metafilegenerator.de:80/DWelle/tv-latinoamerica/ios/master.m3u8
 
  ******************************
+ 
+ 
+  #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER2"direcv2  cablehd.php?id=14
+http://23.237.22.207:8000/tvonlinehd/14_.m3u8?md5=oEqYqvdTrwdLbZZSTRy4Og&expires=1570184104
+
+ #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER2"fox cablehd.php?id=30
+http://23.237.22.207:8000/tvonlinehd/30_.m3u8?md5=8dIWzAJQ4PIX1sexHYg2Hg&expires=1570184695
+
  #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER2", RCN hd
 https://rcnhd.cdn.net.co/live01/rcnhd.m3u8
 
