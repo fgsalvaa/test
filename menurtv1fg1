@@ -68,7 +68,7 @@ http://unlimited2-us.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="EL SALVADOR",CANAL TVM EL SALVADOR
 http://168.227.22.18:1935/tvm/tvm.stream/playlist.m3u8
 
- *******************************
+ ********************************
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",wooooooo
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w644334483.m3u8
